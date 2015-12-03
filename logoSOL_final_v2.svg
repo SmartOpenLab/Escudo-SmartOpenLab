@@ -2122,11 +2122,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4"
-     inkscape:cx="810.42447"
-     inkscape:cy="508.7265"
+     inkscape:zoom="0.48"
+     inkscape:cx="692.28718"
+     inkscape:cy="477.567"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1218"
      inkscape:window-height="697"
@@ -2149,7 +2149,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Pruebas contraste"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="color:#000000;fill:#000000;stroke:#ffffff;stroke-width:28.98937416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.5;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2163,40 +2163,39 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Fondo Circulo y Cerebro"
-     style="display:none">
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
-       transform="matrix(1.8629205,0,0,1.8404575,8.3009153,-303.54958)"
-       d="m 431.42857,452.36218 a 148.57143,148.57143 0 1 1 -297.14285,0 148.57143,148.57143 0 1 1 297.14285,0 z"
-       sodipodi:ry="148.57143"
-       sodipodi:rx="148.57143"
-       sodipodi:cy="452.36218"
-       sodipodi:cx="282.85715"
-       id="path2985-5-7-2"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.18609762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Fondo comun logo letras"
-     style="display:none">
+     style="display:inline">
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.29264784;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4680-8"
-       width="1427.8711"
-       height="1035.2263"
-       x="13.622368"
-       y="13.749023"
-       rx="73.612076"
-       ry="82.132767"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968" />
+       width="1439.3651"
+       height="1043.5597"
+       x="7.8753514"
+       y="9.5823565"
+       rx="74.204636"
+       ry="82.793915"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Fondo logo"
+     style="display:none">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:17.85486794;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3434"
+       width="1062.1993"
+       height="1025.0017"
+       x="14.067032"
+       y="16.778034"
+       rx="73.606323"
+       ry="82.12635"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2217,17 +2216,17 @@
        inkscape:export-ydpi="90" />
   </g>
   <g
-     style="display:inline"
-     inkscape:label="Fondo letras adaptado"
-     id="g6518"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Letras"
+     style="display:inline">
     <g
        style="font-size:133.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00004b;fill-opacity:1;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Neogrey;-inkscape-font-specification:Neogrey"
        id="text6520"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_transparente_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968"
-       transform="translate(-2.9745435e-6,9.6430523)">
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-2.9745434e-6,9.6430523)">
       <path
          d="m 967.5917,52.556319 c -5.97132,0.153361 -10.94787,2.220884 -14.92965,6.202576 -3.9818,3.981894 -6.04933,8.95844 -6.20258,14.929652 l 0,15.247304 c 0.15326,5.971367 2.22078,10.947912 6.20258,14.929649 3.98178,3.98185 8.95833,6.04937 14.92965,6.20258 l 50.8243,0 c 3.7059,0.0948 6.7933,1.37654 9.2621,3.84526 2.4687,2.46882 3.7505,5.55617 3.8453,9.26207 l 0,15.2473 c -0.095,3.77005 -1.3766,6.89641 -3.8453,9.3791 -2.4688,2.48271 -5.5562,3.77004 -9.2621,3.86198 l -67.94408,0 c -1.16194,0.0279 -2.1149,0.40683 -2.85887,1.13686 -0.74398,0.73005 -1.1285,1.644 -1.15358,2.74184 0.0251,1.16194 0.40961,2.1149 1.15358,2.85887 0.74398,0.74397 1.69693,1.1285 2.85887,1.15358 l 67.94408,0 c 5.9072,-0.15325 10.8447,-2.22077 14.8127,-6.20258 3.9677,-3.98178 6.0297,-8.95833 6.1858,-14.92965 l 0,-15.2473 c -0.1561,-5.97126 -2.2181,-10.94781 -6.1858,-14.92965 -3.968,-3.98175 -8.9055,-6.04927 -14.8127,-6.20258 l -50.8243,0 c -3.77005,-0.0947 -6.89641,-1.37643 -9.3791,-3.845261 -2.48271,-2.468706 -3.77004,-5.556059 -3.86198,-9.262068 l 0,-15.247304 c 0.0919,-3.764369 1.37927,-6.868442 3.86198,-9.312226 2.48269,-2.443594 5.60905,-3.708628 9.3791,-3.795105 l 67.8104,0 c 1.1618,-0.03334 2.1148,-0.43458 2.8588,-1.203734 0.7439,-0.768954 1.1285,-1.705191 1.1536,-2.808714 -0.025,-1.161835 -0.4097,-2.114792 -1.1536,-2.858873 -0.744,-0.743869 -1.697,-1.128393 -2.8588,-1.153576 l -67.8104,0 z"
          style="fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-opacity:1;stroke-dasharray:none;font-family:Neogrey;-inkscape-font-specification:Neogrey"
@@ -2289,12 +2288,6 @@
          id="path6551"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Letras"
-     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:133.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#007cff;fill-opacity:1;stroke:none;display:inline;font-family:Neogrey;-inkscape-font-specification:Neogrey"
@@ -2302,9 +2295,9 @@
        y="169.33174"
        id="text7091"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_transparente_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968"><tspan
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7093"
          x="1421.6377"
@@ -2323,8 +2316,254 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Reborde figuras blanco"
+     style="display:inline">
+    <g
+       id="g5804"
+       transform="translate(-171.50465,3.0847747)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
+         transform="matrix(1.3530707,0,0,1.3367554,324.29992,-79.55445)"
+         d="m 431.42857,452.36218 a 148.57143,148.57143 0 1 1 -297.14285,0 148.57143,148.57143 0 1 1 297.14285,0 z"
+         sodipodi:ry="148.57143"
+         sodipodi:rx="148.57143"
+         sodipodi:cy="452.36218"
+         sodipodi:cx="282.85715"
+         id="path2985-5-7-2"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13.38401127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <g
+         style="display:inline"
+         id="g3472-4"
+         transform="matrix(0.94236433,0,0,0.94236433,312.89576,302.09277)">
+        <g
+           id="g5116-7-2"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+             sodipodi:ry="44.542873"
+             sodipodi:rx="44.542873"
+             sodipodi:cy="509.98718"
+             sodipodi:cx="78.605072"
+             id="path3018-4-1-7-3"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+        </g>
+        <path
+           style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-2"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-5-7-7-1-2"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-5-7-7"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1200.7143,-809.75066)" />
+      <g
+         style="display:inline"
+         id="g3472-1"
+         transform="matrix(0.94236433,0,0,0.94236433,203.44343,578.32546)">
+        <g
+           id="g5116-7-6"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+             sodipodi:ry="44.542873"
+             sodipodi:rx="44.542873"
+             sodipodi:cy="509.98718"
+             sodipodi:cx="78.605072"
+             id="path3018-4-1-7-8"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+        </g>
+        <path
+           style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-5"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-5-7-7-1-7"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1482.9477,-928.27854)"
+         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+         sodipodi:ry="44.542873"
+         sodipodi:rx="44.542873"
+         sodipodi:cy="509.98718"
+         sodipodi:cx="78.605072"
+         id="path3018-5-7-7-6"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1762.7629,-809.67895)"
+         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+         sodipodi:ry="44.542873"
+         sodipodi:rx="44.542873"
+         sodipodi:cy="509.98718"
+         sodipodi:cx="78.605072"
+         id="path3018-5-7-7-1"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <g
+         style="display:inline"
+         id="g3472-6"
+         transform="matrix(0.94236433,0,0,0.94236433,-77.685957,696.92532)">
+        <g
+           id="g5116-7-1"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+             sodipodi:ry="44.542873"
+             sodipodi:rx="44.542873"
+             sodipodi:cy="509.98718"
+             sodipodi:cx="78.605072"
+             id="path3018-4-1-7-89"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+        </g>
+        <path
+           style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-27"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-5-7-7-1-9"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         style="display:inline"
+         id="g3472-5"
+         transform="matrix(0.94236433,0,0,0.94236433,-356.93186,578.39718)">
+        <g
+           id="g5116-7-4"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+             sodipodi:ry="44.542873"
+             sodipodi:rx="44.542873"
+             sodipodi:cy="509.98718"
+             sodipodi:cx="78.605072"
+             id="path3018-4-1-7-31"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+        </g>
+        <path
+           style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-23"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-5-7-7-1-3"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         style="display:inline"
+         id="g3472-41"
+         transform="matrix(0.94236433,0,0,0.94236433,-469.37198,302.09277)">
+        <g
+           id="g5116-7-13"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+             sodipodi:ry="44.542873"
+             sodipodi:rx="44.542873"
+             sodipodi:cy="509.98718"
+             sodipodi:cx="78.605072"
+             id="path3018-4-1-7-87"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+        </g>
+        <path
+           style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-4"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-5-7-7-1-27"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Satelites fondo"
+     inkscape:label="Aspas"
      style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.1280365;stroke-miterlimit:5.5;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -2383,190 +2622,46 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g5351"
-       transform="translate(-9.9998799,1.19e-5)"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_transparente_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968">
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.6735985,0,0,1.643798,-79.886842,-325.7811)"
-         id="g3820"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813503;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;display:inline">
-        <path
-           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 134.4499,520.93361 479.99541,0"
-           id="path3016"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         id="g3820-0"
-         transform="matrix(0,1.643798,-1.6735985,0,1418.4842,-84.924698)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813503;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;display:inline">
-        <path
-           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 132.87755,520.93361 483.14011,0"
-           id="path3016-9"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.1834129,1.1623407,-1.1834129,1.1623407,718.38409,-509.90318)"
-         id="g3820-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813408;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;display:inline">
-        <path
-           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 138.43339,520.93361 472.02843,0"
-           id="path3016-4"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.1834129,-1.1623407,1.1834129,1.1623407,-513.25609,360.63176)"
-         id="g3820-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813408;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none;display:inline">
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.05813408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:18;stroke-opacity:1;stroke-dasharray:none"
-           d="m 138.43339,520.93361 472.02843,0"
-           id="path3016-7"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         transform="matrix(2.1904366,0,0,2.1514334,789.21115,-566.18167)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-5"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(1.5488726,1.5212931,-1.5488726,1.5212931,915.58146,-658.28314)" />
-      <path
-         transform="matrix(1.5488726,1.5212931,-1.5488726,1.5212931,1513.4,-72.569661)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4-5"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-48"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(0,2.1514334,-2.1904366,0,1663.4647,-57.828517)" />
-      <g
-         id="g5116"
-         transform="matrix(0.96359532,0,0,0.91790859,445.2748,-68.813717)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
-        <path
-           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-           sodipodi:ry="44.542873"
-           sodipodi:rx="44.542873"
-           sodipodi:cy="509.98718"
-           sodipodi:cx="78.605072"
-           id="path3018-4-1"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           sodipodi:type="arc"
-           transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
-      </g>
-      <path
-         transform="matrix(0,2.1514334,-2.1904366,0,1663.3943,779.59162)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4-8"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-1"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(1.5488726,-1.5212931,1.5488726,1.5212931,-660.98276,166.59314)" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(2.1904366,0,0,2.1514334,-40.90063,-566.39945)" />
-    </g>
+       style="display:inline"
+       transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)"
+       id="g3820-0-1"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g5409"
-       transform="translate(-973.42129,567.87686)"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_transparente_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968">
+       id="g5151"
+       style="stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.5531735,0,0,1.5255174,928.62742,-832.04161)"
+         transform="matrix(1.4636553,0,0,1.4375932,-12.419842,-218.02647)"
          id="g3820-5"
-         style="display:inline">
+         style="stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
         <path
-           style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 134.4499,520.93361 479.99541,0"
            id="path3016-98"
            inkscape:connector-curvature="0" />
       </g>
+      <path
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 133.07871,521.5994 483.14011,0"
+         id="path3016-9-9"
+         inkscape:connector-curvature="0"
+         transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         id="g3820-0-1"
-         transform="matrix(0,1.5255174,-1.5531735,0,2319.1722,-608.51166)"
-         style="display:inline">
-        <path
-           style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 132.87755,520.93361 483.14011,0"
-           id="path3016-9-9"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.0982595,1.0787037,-1.0982595,1.0787037,1669.3317,-1002.893)"
+         transform="matrix(1.0349606,1.0165319,-1.0349606,1.0165319,687.24962,-379.31942)"
          id="g3820-2-4"
-         style="display:inline">
+         style="stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
         <path
-           style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 138.43339,520.93361 472.02843,0"
            id="path3016-4-5"
            inkscape:connector-curvature="0" />
@@ -2575,100 +2670,67 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
-         transform="matrix(1.0982595,-1.0787037,1.0982595,1.0787037,526.41007,-194.99344)"
+         transform="matrix(1.0349606,-1.0165319,1.0349606,1.0165319,-391.0419,381.95645)"
          id="g3820-1-4"
-         style="display:inline">
+         style="stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
         <path
-           style="fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 138.43339,520.93361 472.02843,0"
            id="path3016-7-8"
            inkscape:connector-curvature="0" />
       </g>
-      <path
-         transform="matrix(1.9352911,0,0,1.9395882,1772.6883,-1026.0202)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4-11"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-5-7"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(1.3684574,1.3714959,-1.3684574,1.3714959,1801.175,-1137.9905)" />
-      <path
-         transform="matrix(1.3684574,1.3714959,-1.3684574,1.3714959,2398.9935,-552.27704)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4-5-5"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-48-5"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(0,1.9395882,-1.9352911,0,2496.7652,-609.05326)" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5151-4"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
-         id="g5116-7"
-         transform="matrix(0.85135421,0,0,0.82752485,1455.1317,-606.56438)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.4636553,0,0,1.4375932,-12.419842,-218.02647)"
+         id="g3820-5-5"
          style="display:inline">
         <path
-           d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-           sodipodi:ry="44.542873"
-           sodipodi:rx="44.542873"
-           sodipodi:cy="509.98718"
-           sodipodi:cx="78.605072"
-           id="path3018-4-1-7"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           sodipodi:type="arc"
-           transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+           style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 134.4499,520.93361 479.99541,0"
+           id="path3016-98-5"
+           inkscape:connector-curvature="0" />
       </g>
       <path
-         transform="matrix(0,1.9395882,-1.9352911,0,2496.6948,228.36688)"
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-4-8-9"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-1-5"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(1.3684574,-1.3714959,1.3684574,1.3714959,408.62964,-336.66388)" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.42750454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3018-6"
-         sodipodi:cx="78.605072"
-         sodipodi:cy="509.98718"
-         sodipodi:rx="44.542873"
-         sodipodi:ry="44.542873"
-         d="m 123.14795,509.98718 a 44.542873,44.542873 0 1 1 -89.085751,0 44.542873,44.542873 0 1 1 89.085751,0 z"
-         transform="matrix(1.9352911,0,0,1.9395882,942.57651,-1026.238)" />
+         style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 133.07871,521.5994 483.14011,0"
+         id="path3016-9-9-1"
+         inkscape:connector-curvature="0"
+         transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,1.0165319,-1.0349606,1.0165319,687.24962,-379.31942)"
+         id="g3820-2-4-7"
+         style="display:inline">
+        <path
+           style="color:#000000;fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 138.43339,520.93361 472.02843,0"
+           id="path3016-4-5-1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,-1.0165319,1.0349606,1.0165319,-391.0419,381.95645)"
+         id="g3820-1-4-1"
+         style="display:inline">
+        <path
+           style="fill:none;stroke:#007cff;stroke-width:4.11214972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 138.43339,520.93361 472.02843,0"
+           id="path3016-7-8-5"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
   <g
@@ -2677,228 +2739,247 @@
      inkscape:label="Circulo y Cerebro"
      style="display:inline"
      transform="translate(0,2.2302535e-5)">
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:5.18630409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2985-5-7"
+       sodipodi:cx="282.85715"
+       sodipodi:cy="452.36218"
+       sodipodi:rx="148.57143"
+       sodipodi:ry="148.57143"
+       d="m 431.42857,452.36218 c 0,82.05374 -66.51769,148.57143 -148.57142,148.57143 -82.05374,0 -148.57143,-66.51769 -148.57143,-148.57143 0,-82.05373 66.51769,-148.57142 148.57143,-148.57142 82.05373,0 148.57142,66.51769 148.57142,148.57142 z"
+       transform="matrix(1.3530707,0,0,1.3367554,153.06714,-75.431726)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#007cff;fill-opacity:1;stroke:#007dff;stroke-width:5.18609762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2985-5-7-3"
+       sodipodi:cx="282.85715"
+       sodipodi:cy="452.36218"
+       sodipodi:rx="148.57143"
+       sodipodi:ry="148.57143"
+       d="m 431.42857,452.36218 c 0,82.05374 -66.51769,148.57143 -148.57142,148.57143 -82.05374,0 -148.57143,-66.51769 -148.57143,-148.57143 0,-82.05373 66.51769,-148.57142 148.57143,-148.57142 82.05373,0 148.57142,66.51769 148.57142,148.57142 z"
+       transform="matrix(1.1784119,0,0,1.1642027,202.47061,2.6245741)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4410-0"
+       d="m 540.25821,505.20287 0,76.00018 41.96607,46.05366 0,68.40216"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4416-8"
+       d="m 505.76166,468.62346 -31.17732,0 -88.26306,60.78871 -27.22199,-0.0785 -25.8669,1.09278"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418-9"
+       d="m 505.76166,448.73967 -40.92024,0 -36.20491,20.65088 -22.81852,0 -0.10843,-27.54244 -21.31468,0"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4420-0"
+       d="m 453.15762,433.15577 -28.90202,-4.40721 -18.578,-20.37348 -15.30375,-19.31972"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4422-0"
+       d="M 515.32293,433.02732 468.9595,418.60868 453.24637,377.49814"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4424-0"
+       d="m 565.19363,505.20287 0,67.37807 46.44924,45.05868 0.0959,67.39351"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4426-7"
+       d="m 613.31105,551.59406 32.78758,30.93902 17.02557,73.04388 16.64344,16.27127"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4428-2"
+       d="m 581.36781,490.76195 43.69807,-0.1642 24.50234,27.48917 0,35.98966 31.16321,16.92235 15.88441,25.45903"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4430-5"
+       d="m 581.36781,468.62346 53.17768,-0.30573 43.65265,22.82853 0.0958,37.99946 60.56956,1.76839"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4432-5"
+       d="m 581.36781,446.48494 26.88593,-8.09996 8.16912,-16.53987 37.01993,0 0.47869,21.45276 33.65682,0"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4436-1"
+       d="m 565.19363,433.02915 0,-31.37728 98.0038,0.92246 17.79249,-14.49358"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4438-4"
+       d="m 540.25828,433.02915 6.33607,-44.02627 25.04694,-28.84712"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4440-8"
+       d="m 503.81308,404.11023 31.81054,-51.20394 -0.30862,-25.0521"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g5057"
-       transform="matrix(1.1518447,0,0,1.1404254,-81.43959,-74.986443)"
-       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_transparente_68px.png"
-       inkscape:export-xdpi="5.9003968"
-       inkscape:export-ydpi="5.9003968">
+       style="stroke:#ffffff;stroke-opacity:1;display:inline"
+       id="g7204-6"
+       transform="matrix(0.95851366,0,0,0.946956,418.6034,218.0339)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-4-4"
+         d="m 112.42095,249.5222 30.63142,30.63142"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-9-8-6"
+         d="m 143.05237,249.5222 -30.63142,30.63142"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#ffffff;stroke-opacity:1;display:inline"
+       id="g7200-8"
+       transform="matrix(0.95851366,0,0,0.946956,418.6034,218.03393)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-4-8-9"
+         d="m 106.07696,264.8379 43.31939,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-9-8-2-8"
+         d="m 127.73666,243.17821 0,43.31938"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       transform="matrix(1.7119588,0,0,1.691316,-153.03028,-187.62947)"
+       d="m 413.20032,388.13156 c 0,4.29417 -3.48111,7.77528 -7.77527,7.77528 -4.29417,0 -7.77528,-3.48111 -7.77528,-7.77528 0,-4.29416 3.48111,-7.77527 7.77528,-7.77527 4.29416,0 7.77527,3.48111 7.77527,7.77527 z"
+       sodipodi:ry="7.7752748"
+       sodipodi:rx="7.7752748"
+       sodipodi:cy="388.13156"
+       sodipodi:cx="405.42505"
+       id="path4459-4-3"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4410-0-5"
+       d="m 514.21112,505.20287 0,102.23275 20.72389,42.79994 0.13785,80.79824"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4416-8-0"
+       d="m 404.65826,659.47784 -13.12232,13.17768"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Iconos y circulos"
+     style="display:inline">
+    <g
+       id="g5908"
+       transform="translate(-870.45718,-198.09632)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         transform="matrix(1.5588648,0,0,1.5554891,94.449391,-174.0261)"
-         d="m 431.42857,452.36218 a 148.57143,148.57143 0 1 1 -297.14285,0 148.57143,148.57143 0 1 1 297.14285,0 z"
-         sodipodi:ry="148.57143"
-         sodipodi:rx="148.57143"
-         sodipodi:cy="452.36218"
-         sodipodi:cx="282.85715"
-         id="path2985-5-7"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:5.18609762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         transform="matrix(1.3576415,0,0,1.3547016,151.36684,-83.197428)"
-         d="m 431.42857,452.36218 a 148.57143,148.57143 0 1 1 -297.14285,0 148.57143,148.57143 0 1 1 297.14285,0 z"
-         sodipodi:ry="148.57143"
-         sodipodi:rx="148.57143"
-         sodipodi:cy="452.36218"
-         sodipodi:cx="282.85715"
-         id="path2985-5-7-3"
-         style="color:#000000;fill:#007cff;fill-opacity:1;stroke:#007dff;stroke-width:5.18609762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 540.52996,501.61792 0,88.43611 48.34887,53.58943 0,79.59484"
-         id="path4410-0"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 500.78669,459.053 -35.91921,0 -101.68736,70.7356 -31.3623,-0.0914 -27.17929,-0.0524"
-         id="path4416-8"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 500.78669,435.91563 -47.14397,0 -41.71147,24.02999 -26.28908,0 -0.12492,-32.04922 -24.55652,0"
-         id="path4418-9"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 440.18188,417.78173 -33.29784,-5.12837 -16.15999,-29.00332 -18.10779,-15.86085"
-         id="path4420-0"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 511.80217,417.63226 -53.41504,-16.77797 -18.103,-47.83747"
-         id="path4422-0"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 569.25791,501.61792 0,78.40316 53.5139,52.43165 0.11048,78.42113"
-         id="path4424-0"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 624.69371,555.60011 37.77438,36.00159 19.61507,84.99606 18.85718,17.60972"
-         id="path4426-7"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 587.89209,484.81403 50.3443,-0.19108 28.229,31.98724 0,41.87866 35.90295,19.69136 18.30034,29.6249"
-         id="path4428-2"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 587.89209,459.053 61.2657,-0.35575 54.22468,21.26785 0.11035,49.51344 64.53822,0.73372"
-         id="path4430-5"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 587.89209,433.29196 30.97513,-9.42537 9.41159,-19.24629 42.65045,0 0.5515,24.96308 38.77582,0"
-         id="path4432-5"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 569.25791,417.63439 0,-36.51155 112.90962,1.07339 16.72471,-16.54436"
-         id="path4436-1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 540.53004,417.63439 7.29976,-51.23031 28.85643,-33.56738"
-         id="path4438-4"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 498.54174,383.98345 36.64874,-59.58246 0.95535,-25.17928"
-         id="path4440-8"
-         inkscape:connector-curvature="0" />
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         transform="matrix(1.104298,0,0,1.1019067,400.37216,167.4594)"
-         id="g7204-6"
-         style="stroke:#ffffff;stroke-opacity:1;display:inline">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 112.42095,249.5222 30.63142,30.63142"
-           id="path7111-4-4"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 143.05237,249.5222 -30.63142,30.63142"
-           id="path7111-9-8-6"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         transform="matrix(1.104298,0,0,1.1019067,400.37216,167.45943)"
-         id="g7200-8"
-         style="stroke:#ffffff;stroke-opacity:1;display:inline">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 106.07696,264.8379 43.31939,0"
-           id="path7111-4-8-9"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 127.73666,243.17821 0,43.31938"
-           id="path7111-9-8-2-8"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         transform="matrix(2.5410283,0,0,2.5466704,1597.6462,-571.69799)"
          sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4459-4-3"
-         sodipodi:cx="405.42505"
-         sodipodi:cy="388.13156"
-         sodipodi:rx="7.7752748"
-         sodipodi:ry="7.7752748"
-         d="m 413.20032,388.13156 a 7.7752748,7.7752748 0 1 1 -15.55055,0 7.7752748,7.7752748 0 1 1 15.55055,0 z"
-         transform="matrix(1.9723378,0,0,1.9680666,-258.20367,-304.5828)" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="cccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 510.52126,501.61792 0,118.96112 26.49769,52.45138 0,88.72315"
-         id="path4410-0-5"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_icono.png"
-         sodipodi:nodetypes="ccc"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12.11350155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#marker6759);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 405.83018,700.48562 -20.21322,-17.70383 -14.95934,12.68588"
-         id="path4416-8-0"
-         inkscape:connector-curvature="0" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-4-11"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="g3299"
-         transform="matrix(5.9026465,0,0,5.8555952,856.58698,461.45306)"
+         transform="matrix(8.9269666,0,0,8.7680119,1736.7561,622.35277)"
          style="fill:#007cff;fill-opacity:1;display:inline">
         <path
            id="path3301"
@@ -2906,12 +2987,25 @@
            inkscape:connector-curvature="0"
            style="fill:#007cff;fill-opacity:1" />
       </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-5-7"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1899.6668,-608.56955)" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="g3303"
-         transform="matrix(6.1168934,0,0,6.0681342,198.67337,207.49387)"
+         transform="matrix(9.2509867,0,0,9.0862625,1006.3671,352.22602)"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:1.05496752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
         <path
            id="path3305"
@@ -2922,50 +3016,133 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,2463.0296,-56.614125)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-4-5-5"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="path3307"
-         d="m 795.424,736.78935 c 10.9814,0 21.294,4.15715 29.0335,11.71314 7.685,7.49506 11.9164,17.4614 11.9164,28.0303 0,10.56889 -4.2314,20.51493 -11.9096,28.02352 L 795.424,832.88448 766.3904,804.5427 c -7.6782,-7.49498 -11.9096,-17.44102 -11.9096,-28.02346 0,-10.58244 4.2314,-20.52845 11.9096,-28.03706 7.7464,-7.53568 18.0658,-11.69283 29.0336,-11.69283 m 0,-13.5412 c -13.9708,0 -27.9553,5.19982 -38.6091,15.60623 -21.3213,20.81285 -21.3213,54.55073 0,75.36355 l 38.6091,37.66482 38.609,-37.67828 c 21.3213,-20.79936 21.3213,-54.54401 0,-75.35009 -10.6539,-10.40641 -24.6315,-15.60623 -38.609,-15.60623 z m 0,37.23156 c 4.559,0 8.8452,1.76035 12.0665,4.94929 6.6612,6.6081 6.6612,17.34629 0,23.94761 -3.2282,3.19571 -7.5075,4.9493 -12.0665,4.9493 -4.5592,0 -8.8385,-1.76034 -12.0667,-4.9493 -6.6612,-6.60812 -6.6612,-17.3463 0,-23.94761 3.2282,-3.18894 7.5144,-4.94929 12.0667,-4.94929 m 0,-6.77063 c -6.1153,0 -12.2305,2.31556 -16.8919,6.93308 -9.3298,9.25543 -9.3298,24.26586 0,33.52128 4.6683,4.63112 10.7699,6.93308 16.8919,6.93308 6.122,0 12.2303,-2.31556 16.8918,-6.93308 9.323,-9.25542 9.323,-24.26585 0,-33.52128 -4.6615,-4.6243 -10.7767,-6.93308 -16.8918,-6.93308 z"
+         d="m 1687.3028,927.69535 c 16.6079,0 32.2044,6.22481 43.9093,17.53894 11.6226,11.22291 18.022,26.14623 18.022,41.97182 0,15.82559 -6.3994,30.71849 -18.0117,41.96169 l -43.9196,42.4178 -43.9094,-42.4382 c -11.6123,-11.2228 -18.0117,-26.1157 -18.0117,-41.96158 0,-15.84586 6.3994,-30.73874 18.0117,-41.98194 11.7154,-11.28372 27.3221,-17.50853 43.9094,-17.50853 m 0,-20.27623 c -21.1289,0 -42.2787,7.78606 -58.3911,23.36835 -32.2456,31.1646 -32.2456,81.68283 0,112.84733 l 58.3911,56.3983 58.391,-56.4184 c 32.2456,-31.1444 32.2456,-81.67276 0,-112.82723 -16.1126,-15.58229 -37.2519,-23.36835 -58.391,-23.36835 z m 0,55.74953 c 6.8949,0 13.3772,2.63591 18.249,7.41095 10.0742,9.8948 10.0742,25.97387 0,35.8585 -4.8822,4.7852 -11.3541,7.411 -18.249,7.411 -6.8952,0 -13.367,-2.6359 -18.2493,-7.411 -10.0741,-9.89481 -10.0741,-25.97388 0,-35.8585 4.8823,-4.77504 11.3646,-7.41095 18.2493,-7.41095 m 0,-10.13815 c -9.2486,0 -18.497,3.46726 -25.5467,10.38141 -14.1101,13.85883 -14.1101,36.33505 0,50.19389 7.0602,6.9345 16.288,10.3814 25.5467,10.3814 9.2587,0 18.4967,-3.4673 25.5466,-10.3814 14.0998,-13.85884 14.0998,-36.33506 0,-50.19389 -7.0499,-6.9243 -16.2983,-10.38141 -25.5466,-10.38141 z"
          inkscape:connector-curvature="0"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-48-5"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z"
+         transform="matrix(0,2.5466703,-2.5410284,0,2702.6941,132.63937)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="path3309"
-         d="m 569.93425,122.73625 c 1.60895,0 3.20656,0.59996 4.43334,1.81693 2.45918,2.43954 2.45918,6.37906 0,8.81298 l -9.81385,9.75261 1.7517,1.74334 c 3.33779,3.3056 5.16929,7.70925 5.16929,12.40721 0,4.69799 -1.8315,9.09602 -5.16929,12.40158 l -23.8043,23.61447 c -3.33217,3.30561 -7.76551,5.1282 -12.5013,5.1282 -4.7357,0 -9.16904,-1.82259 -12.50112,-5.1282 l -1.76874,-1.749 -9.831,9.75259 c -1.22668,1.21694 -2.82429,1.82262 -4.43333,1.82262 -1.60904,0 -3.20656,-0.60568 -4.43334,-1.82262 -2.45909,-2.43388 -2.45909,-6.37342 0,-8.813 l 9.81385,-9.73556 -1.75741,-1.74903 c -3.32636,-3.30558 -5.16367,-7.70357 -5.16367,-12.4016 0,-4.69797 1.83159,-9.10163 5.16367,-12.40718 l 23.81001,-23.62019 c 3.33208,-3.30559 7.91379,-4.95268 12.50121,-4.95268 4.58742,0 9.16904,1.64709 12.50111,4.95268 l 1.76884,1.74337 9.8309,-9.75259 c 1.22678,-1.21697 2.82439,-1.81693 4.43343,-1.81693 m 0,-11.32046 c -4.72436,0 -9.1577,1.8169 -12.5013,5.1395 l -2.80715,2.77918 c -4.03394,-1.98677 -8.58146,-3.05087 -13.2144,-3.05087 -7.77685,0 -15.27427,3.01689 -20.56917,8.26958 l -23.80421,23.62015 c -5.50032,5.44519 -8.52432,12.68459 -8.52432,20.41644 0,4.65273 1.09546,9.14695 3.18371,13.1714 l -2.73306,2.7169 c -3.34351,3.31125 -5.18644,7.72051 -5.18644,12.4129 0,4.68101 1.83731,9.08468 5.18091,12.40155 3.33207,3.31689 7.77684,5.1395 12.50111,5.1395 4.72437,0 9.15761,-1.82261 12.50121,-5.1395 l 2.73878,-2.71691 c 4.05669,2.06598 8.58136,3.16409 13.28287,3.16409 7.77693,0 15.09161,-2.99995 20.56917,-8.44507 l 23.8042,-23.6145 c 5.49452,-5.44515 8.51289,-12.69025 8.51289,-20.40515 0,-4.664 -1.09545,-9.15259 -3.1837,-13.17702 l 2.73306,-2.71691 c 3.36056,-3.32255 5.20358,-7.73185 5.20358,-12.41286 0,-4.68674 -1.83731,-9.09037 -5.18081,-12.40724 -3.34922,-3.32826 -7.78265,-5.14516 -12.50693,-5.14516 z M 535.12932,151.994 c 0.0972,3.02822 1.32944,5.86401 3.49768,8.01488 2.17386,2.15089 5.02664,3.3848 8.07921,3.4754 l -10.45286,10.36386 c -0.0971,-3.02254 -1.33507,-5.85834 -3.49759,-8.00924 -2.17387,-2.15089 -5.02673,-3.37912 -8.07921,-3.47535 L 535.12932,151.994 m 6.27636,-12.10725 c -1.38077,0 -2.6703,0.53208 -3.63453,1.483 l -23.8043,23.61446 c -0.9586,0.95094 -1.48352,2.23581 -1.48352,3.60556 0,1.35848 0.52492,2.64336 1.48352,3.59428 l 1.76313,1.74331 4.12517,-4.09231 c 1.22668,-1.21696 2.82439,-1.81695 4.43333,-1.81695 1.60904,0 3.20656,0.59999 4.43343,1.81695 2.45909,2.43956 2.45909,6.37906 0,8.81297 l -4.10821,4.09238 1.75741,1.74333 c 0.95852,0.9509 2.28805,1.43201 3.62873,1.43201 1.34096,0 2.6703,-0.47545 3.63471,-1.43201 l 23.80412,-23.62015 c 0.9586,-0.95091 1.48352,-2.23577 1.48352,-3.59426 0,-1.36977 -0.52492,-2.65467 -1.48352,-3.60556 l -1.76875,-1.749 -4.12517,4.09233 c -1.22687,1.21695 -2.82429,1.8226 -4.43343,1.8226 -1.60894,0 -3.20665,-0.60565 -4.43324,-1.8226 -2.45918,-2.4339 -2.45918,-6.37343 0,-8.81297 l 4.10812,-4.07535 -1.7517,-1.74902 c -0.96423,-0.95092 -2.25376,-1.483 -3.62882,-1.483 z"
+         d="m 1457.5704,272.02895 c 2.4333,0 4.8495,0.89836 6.7048,2.72062 3.7192,3.6529 3.7192,9.55184 0,13.19632 l -14.8421,14.6033 2.6492,2.61043 c 5.048,4.94972 7.8178,11.54363 7.8178,18.57822 0,7.03465 -2.7698,13.62015 -7.8178,18.5698 l -36.0009,35.35968 c -5.0394,4.94973 -11.7442,7.67882 -18.9065,7.67882 -7.1621,0 -13.8669,-2.72909 -18.9063,-7.67882 l -2.675,-2.6189 -14.868,14.60326 c -1.8552,1.82222 -4.2714,2.72915 -6.7049,2.72915 -2.4334,0 -4.8495,-0.90693 -6.7048,-2.72915 -3.7191,-3.64442 -3.7191,-9.54339 0,-13.19635 l 14.8421,-14.57776 -2.6578,-2.61896 c -5.0307,-4.94968 -7.8094,-11.53512 -7.8094,-18.56982 0,-7.03462 2.7701,-13.62854 7.8094,-18.57818 l 36.0095,-35.36825 c 5.0393,-4.9497 11.9685,-7.41601 18.9064,-7.41601 6.9378,0 13.8669,2.46631 18.9062,7.41601 l 2.6752,2.61048 14.8679,-14.60327 c 1.8553,-1.82226 4.2715,-2.72062 6.705,-2.72062 m 0,-16.95096 c -7.145,0 -13.8498,2.72058 -18.9066,7.69575 l -4.2454,4.16147 c -6.1008,-2.97493 -12.9783,-4.56829 -19.985,-4.56829 -11.7615,0 -23.1003,4.51741 -31.1082,12.38265 l -36.0007,35.36818 c -8.3185,8.15349 -12.8919,18.99356 -12.8919,30.57104 0,6.96686 1.6568,13.69641 4.815,19.7225 l -4.1334,4.06821 c -5.0566,4.95818 -7.8438,11.56048 -7.8438,18.58674 0,7.00922 2.7787,13.60317 7.8354,18.56975 5.0393,4.96663 11.7615,7.69577 18.9063,7.69577 7.145,0 13.8497,-2.72914 18.9064,-7.69577 l 4.142,-4.06822 c 6.1352,3.09356 12.9782,4.73783 20.0886,4.73783 11.7616,0 22.8241,-4.49205 31.1081,-12.64542 l 36.0007,-35.35973 c 8.3098,-8.15343 12.8746,-19.00204 12.8746,-30.55413 0,-6.98375 -1.6567,-13.70484 -4.8149,-19.73091 l 4.1334,-4.06823 c 5.0824,-4.9751 7.8697,-11.57747 7.8697,-18.58669 0,-7.0178 -2.7787,-13.61168 -7.8353,-18.57827 -5.0652,-4.98365 -11.7702,-7.70423 -18.915,-7.70423 z m -52.6378,60.76073 c 0.147,4.53437 2.0106,8.78061 5.2897,12.00127 3.2877,3.22069 7.6021,5.06832 12.2188,5.20397 l -15.8086,15.51856 c -0.1469,-4.52587 -2.0191,-8.77212 -5.2896,-11.99282 -3.2877,-3.22068 -7.6023,-5.05979 -12.2188,-5.20389 l 15.8085,-15.52709 m 9.4921,-18.12907 c -2.0882,0 -4.0385,0.79672 -5.4967,2.22061 l -36.0009,35.35966 c -1.4497,1.42392 -2.2436,3.34784 -2.2436,5.39887 0,2.03415 0.7939,3.9581 2.2436,5.38197 l 2.6665,2.61039 6.2388,-6.12771 c 1.8552,-1.82225 4.2715,-2.72065 6.7048,-2.72065 2.4335,0 4.8495,0.8984 6.705,2.72065 3.719,3.65293 3.719,9.55183 0,13.19631 l -6.2131,6.12782 2.6578,2.61041 c 1.4497,1.42385 3.4604,2.14425 5.488,2.14425 2.028,0 4.0385,-0.71193 5.497,-2.14425 l 36.0006,-35.36818 c 1.4497,-1.42387 2.2436,-3.34779 2.2436,-5.38196 0,-2.05105 -0.7939,-3.97503 -2.2436,-5.39886 l -2.675,-2.61891 -6.2388,6.12775 c -1.8555,1.82224 -4.2714,2.72911 -6.705,2.72911 -2.4333,0 -4.8496,-0.90687 -6.7046,-2.72911 -3.7192,-3.64446 -3.7192,-9.5434 0,-13.19631 l 6.2129,-6.10232 -2.6492,-2.61893 c -1.4582,-1.42389 -3.4085,-2.22061 -5.4881,-2.22061 z"
          inkscape:connector-curvature="0"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         id="g5116-7"
+         transform="matrix(1.1178242,0,0,1.0865364,1224.1606,89.262145)"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+        <path
+           d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z"
+           sodipodi:ry="44.542873"
+           sodipodi:rx="44.542873"
+           sodipodi:cy="509.98718"
+           sodipodi:cx="78.605072"
+           id="path3018-4-1-7"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc"
+           transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)" />
+      </g>
       <path
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:connector-curvature="0"
-         d="m 765.8597,289.52041 c -7.0634,0 -12.787,5.5362 -12.7743,12.34997 0,6.81378 5.7173,12.34996 12.7743,12.33759 7.038,0.01 12.7617,-5.51767 12.7489,-12.33759 0.01,-6.83228 -5.7109,-12.36231 -12.7489,-12.34997 z m -0.01,-74.05646 c -7.0442,0 -12.7615,5.52996 -12.7615,12.34375 0,6.81378 5.7173,12.34377 12.7615,12.34377 35.1839,0 63.8081,27.68709 63.8081,61.71891 0,6.81378 5.7172,12.34378 12.7616,12.34378 7.0445,0 12.7616,-5.53 12.7616,-12.34378 0,-47.64695 -40.0714,-86.40643 -89.3313,-86.40643 z m 0,37.03132 c -7.0442,0 -12.7615,5.53003 -12.7615,12.34377 0,6.81378 5.7173,12.3438 12.7615,12.3438 14.0697,0 25.5234,11.07235 25.5234,24.68754 0,6.81378 5.7171,12.34378 12.7616,12.34378 7.0443,0 12.7615,-5.53 12.7615,-12.34378 0,-27.22418 -22.9007,-49.37511 -51.0465,-49.37511 z"
+         d="m 1643.008,475.122 c -10.6824,0 -19.3386,8.28975 -19.3194,18.49251 0,10.20276 8.6466,18.49249 19.3194,18.47398 10.6441,0.015 19.3004,-8.26202 19.281,-18.47398 0.015,-10.23048 -8.6369,-18.511 -19.281,-18.49251 z m -0.015,-110.89018 c -10.6534,0 -19.3001,8.28042 -19.3001,18.48319 0,10.20279 8.6467,18.48325 19.3001,18.48325 53.211,0 96.5013,41.4579 96.5013,92.41625 0,10.20276 8.6465,18.48324 19.3002,18.48324 10.6538,0 19.3002,-8.28048 19.3002,-18.48324 0,-71.34529 -60.6027,-129.38269 -135.1017,-129.38269 z m 0,55.44972 c -10.6534,0 -19.3001,8.28051 -19.3001,18.48323 0,10.20276 8.6467,18.48327 19.3001,18.48327 21.2786,0 38.6007,16.57944 38.6007,36.96647 0,10.20276 8.6464,18.48324 19.3002,18.48324 10.6536,0 19.3001,-8.28048 19.3001,-18.48324 0,-40.76477 -34.6342,-73.93297 -77.201,-73.93297 z"
          id="path3311"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         transform="matrix(0,2.5466703,-2.5410283,0,2702.694,921.7226)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863185;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-4-8-9"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="path3313"
-         d="m 591.68766,862.71133 c -0.35757,-1.19214 -1.31612,-2.12163 -2.53208,-2.44099 -1.23034,-0.33346 -2.51788,0.0214 -3.41195,0.89408 l -18.71195,18.14411 -13.69059,-2.71764 -2.72519,-13.53182 18.91937,-18.34275 c 0.90126,-0.87277 1.27323,-2.15006 0.97985,-3.36352 -0.2932,-1.2134 -1.20167,-2.18553 -2.40333,-2.56162 -3.79821,-1.17799 -7.28153,-1.75983 -10.6506,-1.75983 -19.72047,0 -35.7644,15.91612 -35.7644,35.47936 0,2.29198 0.2718,4.61232 0.84409,7.16673 -4.01992,3.28549 -7.83953,6.11672 -12.16704,9.32403 -6.18723,4.58387 -13.19707,9.77096 -22.76057,17.78217 -5.61494,4.86779 -8.83366,11.77198 -8.83366,18.94596 0,13.69509 11.22999,24.83543 25.03503,24.83543 7.30302,0 14.25567,-3.2356 19.04092,-8.86983 8.21869,-9.55825 13.52615,-16.57576 18.19694,-22.77076 3.16154,-4.19366 5.95122,-7.88334 9.17714,-11.77894 2.57506,0.57487 4.92109,0.84442 7.23155,0.84442 19.72048,0 35.7643,-15.91611 35.7643,-35.47921 0,-3.101 -0.48642,-6.20887 -1.53783,-9.79938 z m -87.87302,70.11407 c -3.95555,0 -7.15288,-3.17202 -7.15288,-7.0958 0,-3.9241 3.19733,-7.09587 7.15288,-7.09587 3.95555,0 7.15288,3.17177 7.15288,7.09587 0,3.92378 -3.19733,7.0958 -7.15288,7.0958 z"
+         d="m 1490.5619,1069.6023 c -0.5408,-1.7851 -1.9905,-3.1769 -3.8294,-3.6551 -1.8608,-0.4993 -3.808,0.032 -5.1601,1.3388 l -28.2994,27.1685 -20.7052,-4.0693 -4.1215,-20.2622 28.6131,-27.4659 c 1.363,-1.3069 1.9256,-3.2195 1.4819,-5.0365 -0.4435,-1.8169 -1.8174,-3.2725 -3.6348,-3.8357 -5.7443,-1.7639 -11.0123,-2.6351 -16.1076,-2.6351 -29.8246,0 -54.0889,23.8324 -54.0889,53.1258 0,3.432 0.4111,6.9064 1.2766,10.7313 -6.0796,4.9196 -11.8562,9.159 -18.401,13.9616 -9.3574,6.8637 -19.9588,14.6307 -34.4224,26.6265 -8.4918,7.2889 -13.3597,17.6271 -13.3597,28.3692 0,20.5066 16.9839,37.188 37.8622,37.188 11.0448,0 21.5598,-4.845 28.7968,-13.2815 12.4297,-14.3123 20.4565,-24.8201 27.5205,-34.0964 4.7814,-6.2795 9.0004,-11.8043 13.8792,-17.6374 3.8944,0.8607 7.4425,1.2644 10.9367,1.2644 29.8246,0 54.0888,-23.8324 54.0888,-53.1257 0,-4.6433 -0.7357,-9.297 -2.3258,-14.6733 z m -132.8962,104.987 c -5.9823,0 -10.8178,-4.7497 -10.8178,-10.6251 0,-5.8759 4.8355,-10.6252 10.8178,-10.6252 5.9822,0 10.8177,4.7493 10.8177,10.6252 0,5.8754 -4.8355,10.6251 -10.8177,10.6251 z"
          inkscape:connector-curvature="0"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-1-5"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z"
+         transform="matrix(1.7967784,-1.8007679,1.7967784,1.8007679,69.986398,226.5566)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          id="path3315"
-         d="m 328.26645,755.48665 h -15.18703 c 0,-8.28626 -6.83416,-15.06597 -15.18703,-15.06597 h -60.7482 c -8.35286,0 -15.18712,6.77971 -15.18712,15.06597 v 35.15401 c 0,8.28629 6.83426,15.06601 15.18712,15.06601 v 15.06593 l 15.18703,-15.06593 c 0,8.28627 6.83417,15.06593 15.18703,15.06593 h 40.49886 l 15.18703,15.06602 V 820.7726 h 5.06231 c 8.35295,0 15.18712,-6.77966 15.18712,-15.06593 v -35.15401 c 0,-8.28631 -6.83417,-15.06601 -15.18712,-15.06601 z m -91.12226,40.17601 c -2.74377,0 -5.0624,-2.30009 -5.0624,-5.022 v -35.15401 c 0,-2.7219 2.31863,-5.02197 5.0624,-5.02197 h 60.7482 c 2.74378,0 5.06232,2.30007 5.06232,5.02197 v 5.02203 h -32.9053 c -6.98098,0 -12.65588,5.62964 -12.65588,12.55499 v 22.59899 h -20.24934 z m 96.18467,10.04401 c 0,2.72187 -2.31863,5.02198 -5.06241,5.02198 h -60.7482 c -2.74377,0 -5.06232,-2.30011 -5.06232,-5.02198 v -32.643 c 0,-4.15319 3.40697,-7.53303 7.59348,-7.53303 h 58.21704 c 2.74378,0 5.06241,2.3001 5.06241,5.02202 v 35.15401 z"
+         d="m 1201.0848,955.76377 h -22.9684 c 0,-12.40762 -10.3358,-22.55937 -22.9684,-22.55937 h -91.8735 c -12.6326,0 -22.9685,10.15175 -22.9685,22.55937 v 52.63873 c 0,12.4076 10.3359,22.5594 22.9685,22.5594 v 22.5593 l 22.9683,-22.5593 c 0,12.4076 10.3358,22.5593 22.9684,22.5593 h 61.2491 l 22.9684,22.5595 v -22.5595 h 7.6561 c 12.6327,0 22.9684,-10.1517 22.9684,-22.5593 v -52.63868 c 0,-12.40771 -10.3357,-22.55945 -22.9684,-22.55945 z m -137.8103,60.15853 c -4.1496,0 -7.6562,-3.4441 -7.6562,-7.5198 v -52.63873 c 0,-4.07569 3.5066,-7.51977 7.6562,-7.51977 h 91.8735 c 4.1496,0 7.6561,3.44408 7.6561,7.51977 v 7.51986 h -49.7649 c -10.5578,0 -19.1403,8.42967 -19.1403,18.79951 v 33.83916 h -30.6244 z m 145.4665,15.0396 c 0,4.0757 -3.5066,7.5198 -7.6562,7.5198 h -91.8736 c -4.1496,0 -7.6561,-3.4441 -7.6561,-7.5198 v -48.87876 c 0,-6.21888 5.1526,-11.27976 11.4841,-11.27976 h 88.0456 c 4.1496,0 7.6562,3.44411 7.6562,7.51984 v 52.63868 z"
          inkscape:connector-curvature="0"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3018-6"
+         sodipodi:cx="78.605072"
+         sodipodi:cy="509.98718"
+         sodipodi:rx="44.542873"
+         sodipodi:ry="44.542873"
+         d="m 123.14795,509.98718 c 0,24.60035 -19.94253,44.54288 -44.542878,44.54288 -24.60035,0 -44.542873,-19.94253 -44.542873,-44.54288 0,-24.60035 19.942523,-44.54287 44.542873,-44.54287 24.600348,0 44.542878,19.94252 44.542878,44.54287 z"
+         transform="matrix(2.5410283,0,0,2.5466703,815.37842,-571.69797)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
          style="color:#000000;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:connector-curvature="0"
-         d="m 242.03825,492.38859 -48.96062,0 0,-21.50723 -34.1058,0 0,21.50723 -48.95775,0 c -2.55761,0 0.30078,2.05591 0.30078,4.59027 0,2.53437 -2.85839,4.59027 -0.30078,4.59027 l 48.95775,0 2.42471,15.49367 8.9897,6.01356 2.42472,5.16687 c 1.05725,2.25283 -0.77915,6.37112 1.48038,7.09896 0.13745,2.32267 0.67231,3.87114 1.67786,4.9527 1.76843,1.90222 4.53356,1.8964 8.08213,1.87613 1.03769,0 2.1543,-0.007 3.37318,0.029 2.29748,0.0697 3.49302,0.46686 3.98698,0.73653 -1.09611,0.89021 -5.68819,2.38358 -15.34878,1.42378 -5.17963,-0.52194 -12.34686,-0.85834 -14.68523,2.26757 -0.63141,0.84381 -1.19266,2.30239 -0.28645,4.46561 0.73952,1.7688 2.23608,2.69671 4.05123,3.20416 l -11.70373,6.14162 0.1695,0.31606 -0.18998,-0.0377 0,30.65005 25.56479,5.98503 19.6485,-10.72607 -0.0497,-29.92512 0.0262,-0.66113 -0.0262,-7.8e-4 0,-0.0552 -0.0733,0.0378 -20.87035,-4.42786 -2.85577,-0.60603 -2.36762,-0.50166 -2.86464,1.50495 c -2.70375,-0.12193 -5.12112,-0.47266 -5.75835,-2.00373 -0.46184,-1.09609 -0.16654,-1.49337 -0.0675,-1.62382 0.49111,-0.65244 2.62786,-2.06172 12.27384,-1.08741 9.114,0.90761 16.18763,-0.24069 18.04383,-2.92581 0.55823,-0.80612 0.63715,-1.73984 0.21629,-2.56337 -0.97334,-1.9051 -4.20334,-2.39806 -6.74341,-2.47633 -1.25988,-0.0406 -2.42025,-0.0377 -3.47843,-0.029 -2.91133,0.0185 -5.02466,0.0228 -5.91619,-0.94237 -0.48234,-0.51905 -0.76288,-1.47304 -0.87689,-2.83303 2.52548,-0.55385 0.0329,-4.94773 1.38864,-7.25843 l 3.03092,-5.16691 8.9897,-4.81084 2.42472,-16.69639 48.96062,0 c 2.55474,0 -0.37609,-2.43282 -0.37609,-4.9672 0,-2.53435 2.93083,-4.21623 0.37609,-4.21623 z m -64.34447,103.14021 -22.91941,-5.23399 0,-27.90692 11.14198,17.87641 z"
+         d="m 1114.9983,668.96081 -74.0464,0 0,-32.20435 -51.58052,0 0,32.20435 -74.04207,0 c -3.86805,0 0.45489,3.07846 0.45489,6.87335 0,3.79489 -4.32294,6.87335 -0.45489,6.87335 l 74.04207,0 3.66705,23.19982 13.59577,9.00452 3.667,7.73674 c 1.599,3.37333 -1.1783,9.53995 2.2389,10.6298 0.2079,3.4779 1.0168,5.79653 2.5375,7.41604 2.6746,2.84833 6.8564,2.83962 12.2232,2.80927 1.5694,0 3.2581,-0.0106 5.1015,0.0434 3.4746,0.10439 5.2827,0.69907 6.0297,1.10287 -1.6577,1.33298 -8.6026,3.56911 -23.2129,2.13193 -7.8335,-0.78154 -18.67302,-1.28525 -22.20949,3.3954 -0.95492,1.26349 -1.80374,3.44754 -0.43322,6.68669 1.11842,2.64855 3.38178,4.03798 6.12694,4.79782 l -17.70033,9.1963 0.25635,0.47326 -0.28732,-0.0564 0,45.89456 38.66337,8.96183 29.7157,-16.06092 -0.075,-44.80909 0.04,-0.98996 -0.04,-9.3e-4 0,-0.0827 -0.1108,0.0566 -31.5636,-6.63016 -4.319,-0.90744 -3.5807,-0.75119 -4.3324,2.25348 c -4.0891,-0.18259 -7.74501,-0.70775 -8.70872,-3.00033 -0.69848,-1.64126 -0.25188,-2.23614 -0.10203,-2.43148 0.74273,-0.97694 3.97425,-3.08716 18.56255,-1.62825 13.7837,1.35903 24.4816,-0.36041 27.2889,-4.38103 0.8442,-1.20707 0.9636,-2.60517 0.3271,-3.83832 -1.4721,-2.85264 -6.357,-3.59079 -10.1985,-3.70799 -1.9054,-0.0609 -3.6603,-0.0564 -5.2607,-0.0434 -4.403,0.0277 -7.5991,0.0341 -8.9474,-1.41108 -0.7295,-0.77722 -1.1538,-2.2057 -1.3262,-4.24211 3.8194,-0.82932 0.05,-7.4086 2.1001,-10.86858 l 4.5839,-7.7368 13.5957,-7.20361 3.6671,-25.00073 74.0464,0 c 3.8637,0 -0.5688,-3.64284 -0.5688,-7.43775 0,-3.79487 4.4325,-6.31327 0.5688,-6.31327 z m -97.3125,154.4394 -34.66252,-7.83724 0,-41.78707 16.85077,26.76766 z"
          id="path3317"
          sodipodi:nodetypes="cccccssscccscscccccccccccccccccccccccccccccccscccssccccccc" />
     </g>
