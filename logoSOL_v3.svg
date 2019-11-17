@@ -1,0 +1,3136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_y_letras_fondo_transparente.png"
+   sodipodi:docname="logoSOL_v3.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   version="1.1"
+   id="svg2"
+   height="1052.3622"
+   width="1488.189">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path7727"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="marker6759"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4431"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4433"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4435"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4437"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4439"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4441"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4443"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4445"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4447"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4449"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4451"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4453"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4455"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4457"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4459"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4461"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4463"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4465"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4467"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4469"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4471"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4473"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4475"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4477"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4479"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4481"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4483"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4485"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4487"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4489"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4491"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4493"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4495"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4497"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4499"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4501"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4503"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4505"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4507"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4509"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4511"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4513"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4515"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4517"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4519"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4521"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4523"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4525"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4527"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4529"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4531"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4533"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4535"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4537"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4539"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4541"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4543"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4545"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4547"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4549"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4551"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4553"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-3"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-3"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4924"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4926"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4928"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4930"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4932"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4934"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4936"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4938"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4940"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4942"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4944"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4946"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4948"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4950"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4952"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4954"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4956"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4958"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4960"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4962"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4964"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4966"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4968"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4970"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4972"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4974"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4976"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4978"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4980"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4982"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4984"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4986"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4988"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4990"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4992"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4994"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker4996"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path4998"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5000"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5002"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5004"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5006"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5008"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5010"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5012"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5014"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5016"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5018"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5020"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5022"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5024"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5026"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5028"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5030"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5032"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5034"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5036"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5038"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5040"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5042"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5044"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5046"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-4"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-1"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5269"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5271"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-1"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-6"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5689"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5691"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5693"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5695"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5697"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5699"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5701"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5703"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5705"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5707"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5709"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5711"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5713"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5715"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5717"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5719"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5721"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5723"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5725"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5727"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5729"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5731"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5733"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5735"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5737"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5739"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5741"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5743"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5745"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5747"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5749"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5751"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5753"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5755"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5757"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5759"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5761"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5763"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5765"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5767"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5769"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5771"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5773"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5775"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5777"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5779"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5781"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5783"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5785"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5787"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5789"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5791"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5793"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5795"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5797"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5799"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5801"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5803"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5805"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5807"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker5809"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path5811"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-5"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-15"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6030"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6032"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-17"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-4"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3268"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3270"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3272"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3274"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3276"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3278"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3280"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3282"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3284"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3286"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3288"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3290"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3292"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3294"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3296"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3298"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3300"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3302"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3304"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3306"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3308"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3310"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3312"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3314"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3316"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3318"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3320"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3322"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3324"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3326"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3328"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3330"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3332"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3334"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3336"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3338"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3340"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3342"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3344"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3346"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3348"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3350"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3352"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3354"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3356"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3358"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3360"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3362"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3364"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3366"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3368"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3370"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker3372"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3374"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6759-8"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6721-8-8-17"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+    <marker
+       id="marker6565"
+       orient="auto"
+       markerHeight="1.5"
+       markerWidth="1.5">
+      <path
+         transform="matrix(0.15,0,0,0.15,-33.225,-6.7293274)"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path6567"
+         sodipodi:cx="221.5"
+         sodipodi:cy="44.862183"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="m 226,44.862183 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56585787"
+     inkscape:cx="614.77162"
+     inkscape:cy="655.93558"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5309"
+     showgrid="false"
+     inkscape:window-width="1780"
+     inkscape:window-height="1046"
+     inkscape:window-x="129"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Pruebas contraste"
+     style="display:none">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;stroke:#ffffff;stroke-width:28.98937416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect6516"
+       width="1516.7831"
+       height="1073.5468"
+       x="-16.928082"
+       y="-6.0293121"
+       rx="55.677338"
+       ry="58.464596" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Fondo comun logo letras"
+     style="display:inline">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;fill-opacity:0.02284265;fill-rule:nonzero;stroke:none;stroke-width:3.29264784;marker:none;enable-background:accumulate"
+       id="rect4680-8"
+       width="1439.3651"
+       height="1043.5597"
+       x="7.8753514"
+       y="9.5823565"
+       rx="74.204636"
+       ry="82.793915"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Fondo logo"
+     style="display:none">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:17.85486794;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3434"
+       width="1062.1993"
+       height="1025.0017"
+       x="14.067032"
+       y="16.778034"
+       rx="73.606323"
+       ry="82.12635"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fondo letras cuadrado"
+     style="display:none">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.29264784;marker:none;enable-background:accumulate"
+       id="rect3267"
+       width="510.86115"
+       height="486.47089"
+       x="923.85394"
+       y="42.202805"
+       ry="53.756512"
+       rx="54.792683"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Letras"
+     style="display:none">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.75px;line-height:125%;font-family:Neogrey;-inkscape-font-specification:Neogrey;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#00004b;fill-opacity:1;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="text6520"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-2.9745434e-6,9.6430523)">
+      <path
+         d="m 967.5917,52.556319 c -5.97132,0.153361 -10.94787,2.220884 -14.92965,6.202576 -3.9818,3.981894 -6.04933,8.95844 -6.20258,14.929652 v 15.247304 c 0.15326,5.971367 2.22078,10.947912 6.20258,14.929649 3.98178,3.98185 8.95833,6.04937 14.92965,6.20258 h 50.8243 c 3.7059,0.0948 6.7933,1.37654 9.2621,3.84526 2.4687,2.46882 3.7505,5.55617 3.8453,9.26207 v 15.2473 c -0.095,3.77005 -1.3766,6.89641 -3.8453,9.3791 -2.4688,2.48271 -5.5562,3.77004 -9.2621,3.86198 h -67.94408 c -1.16194,0.0279 -2.1149,0.40683 -2.85887,1.13686 -0.74398,0.73005 -1.1285,1.644 -1.15358,2.74184 0.0251,1.16194 0.40961,2.1149 1.15358,2.85887 0.74398,0.74397 1.69693,1.1285 2.85887,1.15358 h 67.94408 c 5.9072,-0.15325 10.8447,-2.22077 14.8127,-6.20258 3.9677,-3.98178 6.0297,-8.95833 6.1858,-14.92965 v -15.2473 c -0.1561,-5.97126 -2.2181,-10.94781 -6.1858,-14.92965 -3.968,-3.98175 -8.9055,-6.04927 -14.8127,-6.20258 h -50.8243 c -3.77005,-0.0947 -6.89641,-1.37643 -9.3791,-3.845261 -2.48271,-2.468706 -3.77004,-5.556059 -3.86198,-9.262068 V 73.688547 c 0.0919,-3.764369 1.37927,-6.868442 3.86198,-9.312226 2.48269,-2.443594 5.60905,-3.708628 9.3791,-3.795105 h 67.8104 c 1.1618,-0.03334 2.1148,-0.43458 2.8588,-1.203734 0.7439,-0.768954 1.1285,-1.705191 1.1536,-2.808714 -0.025,-1.161835 -0.4097,-2.114792 -1.1536,-2.858873 -0.744,-0.743869 -1.697,-1.128393 -2.8588,-1.153576 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6529"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1131.9007,90.005837 c -3.4915,0.05022 -6.707,0.919588 -9.6466,2.60809 -2.9397,1.688636 -5.52,3.895481 -7.7407,6.620542 -1.9589,-2.725058 -4.3942,-4.931903 -7.306,-6.620542 -2.9118,-1.688505 -6.1831,-2.557867 -9.8138,-2.60809 h -26.7496 c -5.9072,0.167256 -10.8448,2.307226 -14.8126,6.419918 -3.9679,4.112815 -6.0299,9.195245 -6.1859,15.247305 v 44.00318 c 0.028,1.09785 0.4068,2.0118 1.1369,2.74184 0.73,0.73004 1.644,1.109 2.7418,1.13686 1.109,-0.0279 2.0675,-0.40682 2.8756,-1.13686 0.808,-0.73004 1.2316,-1.64399 1.2706,-2.74184 v -44.00318 c 0.098,-3.76998 1.3737,-6.89634 3.8286,-9.3791 2.4548,-2.482644 5.5031,-3.76997 9.145,-3.861981 h 26.7496 c 3.7644,0.09201 6.8685,1.37934 9.3123,3.861981 2.4436,2.48276 3.7086,5.60912 3.7951,9.3791 v 44.00318 c 0.025,1.09785 0.4095,2.0118 1.1536,2.74184 0.7439,0.73004 1.6968,1.109 2.8588,1.13686 0.2897,0.0223 0.5127,-0.0223 0.6688,-0.13375 1.0392,-0.15604 1.9365,-0.57957 2.6916,-1.27061 0.7551,-0.69103 1.1508,-1.51581 1.1871,-2.47434 v -44.00318 c 0.092,-3.76998 1.3457,-6.89634 3.7616,-9.3791 2.4158,-2.482644 5.4418,-3.76997 9.0782,-3.861981 h 27.8196 c 3.9566,0.09201 7.1777,1.37934 9.6634,3.861981 2.4853,2.48276 3.7671,5.60912 3.8452,9.3791 v 44.00318 c 0.025,1.09785 0.4095,2.0118 1.1536,2.74184 0.7438,0.73004 1.6968,1.109 2.8589,1.13686 1.1618,-0.0279 2.1147,-0.40682 2.8588,-1.13686 0.7439,-0.73004 1.1284,-1.64399 1.1536,-2.74184 v -44.00318 c -0.145,-6.05206 -2.2293,-11.13448 -6.2527,-15.247305 -4.0237,-4.112694 -9.1173,-6.252665 -15.2808,-6.419918 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6531"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1197.7422,90.005837 c -1.1619,0.02793 -2.1149,0.406885 -2.8588,1.136859 -0.744,0.730111 -1.1285,1.644057 -1.1536,2.741841 0.025,1.097914 0.4096,2.011859 1.1536,2.741838 0.7439,0.730105 1.6969,1.109059 2.8588,1.136862 h 57.5118 c 3.6418,0.08923 6.6901,1.34869 9.145,3.778393 2.4548,2.42981 3.731,5.49487 3.8286,9.19519 v 7.35616 h -54.3018 c -5.9017,0.14493 -10.8169,2.1623 -14.7458,6.05211 -3.9288,3.88987 -5.9685,8.78283 -6.119,14.67887 0.1449,5.83757 2.1623,10.7138 6.0521,14.62871 3.8899,3.91493 8.7828,5.94902 14.6789,6.10227 h 41.5957 c 5.8319,-0.14489 10.6859,-2.16226 14.5619,-6.05211 3.8758,-3.88983 5.8876,-8.78279 6.0354,-14.67887 v -28.08714 c -0.145,-5.89602 -2.1624,-10.78897 -6.0521,-14.678875 -3.89,-3.889778 -8.7829,-5.907145 -14.6789,-6.052108 z m 3.21,48.818123 c 0.089,-3.64183 1.3486,-6.69018 3.7784,-9.14504 2.4297,-2.45481 5.4948,-3.73099 9.1952,-3.82854 h 54.3018 v 12.97358 c -0.092,3.6363 -1.346,6.66235 -3.7617,9.07816 -2.4159,2.41584 -5.442,3.66973 -9.0782,3.76167 h -41.5957 c -3.6363,-0.0919 -6.6623,-1.34583 -9.0781,-3.76167 -2.4159,-2.41581 -3.6698,-5.44187 -3.7617,-9.07816 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6533"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1308.09,90.005837 c -5.768,0.150538 -10.5829,2.156761 -14.4449,6.018673 -3.8619,3.86204 -5.8682,8.67697 -6.0186,14.44481 v 45.20692 c 0.028,1.09785 0.4068,2.0118 1.1368,2.74184 0.7301,0.73004 1.644,1.109 2.7419,1.13686 1.0978,-0.0279 2.0118,-0.40682 2.7418,-1.13686 0.73,-0.73004 1.109,-1.64399 1.1369,-2.74184 v -45.20692 c 0.095,-3.63065 1.343,-6.63441 3.7449,-9.01129 2.4019,-2.376759 5.3889,-3.608355 8.9612,-3.694793 h 35.9782 c 3.6363,0.08644 6.6623,1.318041 9.0782,3.694803 2.4158,2.37687 3.6697,5.38063 3.7617,9.01128 0.031,1.0979 0.4039,2.01185 1.1201,2.74184 0.7161,0.73009 1.591,1.10904 2.6248,1.13686 1.0978,-0.0278 2.0117,-0.40677 2.7419,-1.13686 0.7299,-0.72999 1.1089,-1.64394 1.1368,-2.74184 -0.1422,-5.76783 -2.1317,-10.582768 -5.9685,-14.44481 -3.837,-3.861915 -8.6686,-5.868137 -14.495,-6.018673 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6535"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1393.9198,151.53005 c -3.7059,-0.0947 -6.7933,-1.37649 -9.262,-3.84527 -2.4688,-2.46875 -3.7506,-5.55611 -3.8453,-9.26207 V 97.763237 h 27.1509 c 1.1619,-0.0278 2.1148,-0.406757 2.8589,-1.136862 0.7439,-0.729979 1.1284,-1.643924 1.1535,-2.741838 -0.025,-1.161872 -0.4096,-2.114828 -1.1535,-2.858872 -0.744,-0.743906 -1.697,-1.128431 -2.8589,-1.153576 h -27.1509 V 56.568768 c -0.033,-1.161835 -0.4347,-2.114792 -1.2037,-2.858873 -0.7691,-0.743869 -1.7053,-1.128393 -2.8088,-1.153576 -1.1619,0.02519 -2.1149,0.409715 -2.8588,1.153582 -0.744,0.74408 -1.1285,1.697034 -1.1536,2.858867 v 81.853942 c 0.1533,5.97132 2.2208,10.94787 6.2026,14.92965 3.9818,3.9818 8.9583,6.04933 14.9296,6.20258 h 14.1773 c 1.1619,-0.0251 2.1149,-0.4096 2.8589,-1.15358 0.7439,-0.74397 1.1285,-1.69693 1.1536,-2.85887 -0.025,-1.10341 -0.4097,-2.03965 -1.1536,-2.80871 -0.744,-0.76905 -1.697,-1.17029 -2.8589,-1.20373 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6537"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1042.5648,219.74382 c -5.9713,0.15336 -10.9478,2.22088 -14.9296,6.20257 -3.9818,3.9819 -6.0493,8.95844 -6.2026,14.92966 v 64.73416 c 0.1533,5.97132 2.2208,10.94787 6.2026,14.92965 3.9818,3.9818 8.9583,6.04933 14.9296,6.20258 h 63.9317 c 5.9657,-0.15325 10.9199,-2.22077 14.8628,-6.20258 3.9427,-3.98178 5.9879,-8.95833 6.1357,-14.92965 v -64.73416 c -0.1478,-5.97122 -2.193,-10.94776 -6.1357,-14.92966 -3.9429,-3.98169 -8.8971,-6.04921 -14.8628,-6.20257 z m -13.1073,21.13223 c 0.095,-3.70586 1.3765,-6.79321 3.8453,-9.26207 2.4687,-2.46868 5.5561,-3.75043 9.262,-3.84526 h 63.9317 c 3.7059,0.0948 6.7932,1.37659 9.2621,3.84526 2.4687,2.46886 3.7504,5.55622 3.8453,9.26207 v 64.73416 c -0.095,3.70596 -1.3766,6.79332 -3.8453,9.26207 -2.4689,2.46878 -5.5562,3.75053 -9.2621,3.84527 h -63.9317 c -3.7059,-0.0947 -6.7933,-1.37649 -9.262,-3.84527 -2.4688,-2.46875 -3.7506,-5.55611 -3.8453,-9.26207 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6539"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1148.1899,360.17951 c 0,-9.94198 0,-17.97802 0,-24.10813 0,-6.13013 0,-9.28436 0,-9.46269 -0.4037,0 -0.012,0 1.174,0 1.1864,0 5.5902,0 13.2114,0 7.6211,0 20.882,0 39.7826,0 5.9713,-0.15325 10.9478,-2.22077 14.9297,-6.20257 3.9817,-3.98179 6.0492,-8.95834 6.2026,-14.92965 v -27.1509 c -0.1534,-5.97126 -2.2209,-10.9478 -6.2026,-14.92966 -3.9819,-3.98173 -8.9584,-6.04925 -14.9297,-6.20257 h -41.0607 c -5.9713,0.15332 -10.9478,2.22084 -14.9296,6.20257 -3.9818,3.98186 -6.0494,8.9584 -6.2026,14.92966 v 81.85394 c 0.025,1.1619 0.4096,2.11486 1.1536,2.85887 0.744,0.74394 1.6969,1.12846 2.8588,1.15358 1.1035,-0.0251 2.0397,-0.40964 2.8088,-1.15358 0.769,-0.74401 1.1702,-1.69697 1.2037,-2.85887 z m 67.4091,-54.70304 c -0.092,3.70595 -1.3793,6.79331 -3.862,9.26206 -2.4827,2.46878 -5.6091,3.75053 -9.3791,3.84527 -18.9006,1e-5 -32.1615,1e-5 -39.7826,0 -7.6212,1e-5 -12.025,1e-5 -13.2114,0 -1.1864,1e-5 -1.5777,1e-5 -1.174,0 0,-0.16759 0,-2.32903 0,-6.48432 0,-4.15526 0,-9.29878 0,-15.43059 0,-6.13174 0,-12.24618 0,-18.34332 0.095,-3.7059 1.3765,-6.79325 3.8453,-9.26208 2.4687,-2.46871 5.5561,-3.75046 9.262,-3.84526 h 41.0607 c 3.77,0.0948 6.8964,1.37656 9.3791,3.84527 2.4827,2.46882 3.77,5.55618 3.862,9.26207 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6541"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1255.5952,257.19334 c -5.9658,0.14775 -10.92,2.19298 -14.8628,6.1357 -3.9428,3.94285 -5.988,8.8971 -6.1357,14.86278 v 27.55214 c 0.1477,5.96575 2.1929,10.92 6.1357,14.86278 3.9428,3.94279 8.897,5.98802 14.8628,6.1357 h 55.773 c 1.1033,-0.0251 2.0396,-0.4096 2.8087,-1.15358 0.769,-0.74397 1.1702,-1.69693 1.2037,-2.85887 -0.034,-1.09784 -0.4347,-2.01179 -1.2037,-2.74184 -0.7691,-0.73003 -1.7054,-1.10899 -2.8087,-1.13686 h -55.773 c -3.706,-0.0947 -6.7934,-1.37648 -9.2621,-3.84526 -2.4688,-2.46876 -3.7505,-5.55611 -3.8453,-9.26207 0,-2.38794 0,-4.33286 0,-5.83477 0,-1.50185 0,-2.27648 0,-2.32387 -0.2675,3e-5 1.3078,3e-5 4.7258,0 3.418,3e-5 10.2837,3e-5 20.5972,0 10.3135,3e-5 25.6796,3e-5 46.0986,0 1.1619,-0.0251 2.1148,-0.40958 2.8589,-1.15358 0.7439,-0.74395 1.1284,-1.6969 1.1536,-2.85887 v -15.38105 c -0.1562,-5.96568 -2.2181,-10.91994 -6.1859,-14.86278 -3.9679,-3.94272 -8.9055,-5.98795 -14.8126,-6.1357 z m -13.1074,20.99848 c 0.095,-3.70589 1.3765,-6.79325 3.8453,-9.26208 2.4687,-2.46871 5.5561,-3.75046 9.2621,-3.84525 h 41.3282 c 3.7059,0.0948 6.7932,1.37655 9.262,3.84526 2.4687,2.46883 3.7505,5.55618 3.8453,9.26207 -10e-5,3.46356 -10e-5,6.23327 0,8.30911 -10e-5,2.07592 -10e-5,3.14033 0,3.19324 -1.9547,4e-5 -6.1372,4e-5 -12.5473,0 -6.4102,4e-5 -13.5518,4e-5 -21.4248,0 -7.873,4e-5 -14.9812,4e-5 -21.3244,0 -6.3434,4e-5 -10.4255,4e-5 -12.2464,0 0,-0.11978 0,-1.31794 0,-3.59449 0,-2.27646 0,-4.91241 0,-7.90786 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6543"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1334.7419,257.19334 c -1.1619,0.092 -2.1149,0.50998 -2.8588,1.25388 -0.744,0.74405 -1.1285,1.66357 -1.1536,2.75857 v 61.5242 c 0.025,1.16194 0.4096,2.1149 1.1536,2.85887 0.7439,0.74397 1.6969,1.1285 2.8588,1.15358 1.1035,-0.0251 2.0397,-0.4096 2.8088,-1.15358 0.769,-0.74397 1.1702,-1.69693 1.2037,-2.85887 0,-9.04698 0,-17.94041 0,-26.6803 0,-8.73983 0,-16.00847 0,-21.80592 0,-5.79736 0,-8.80586 0,-9.02554 -0.1853,7e-5 -0.2996,7e-5 -0.3427,0 -0.043,7e-5 1.0964,7e-5 3.4189,0 2.3225,7e-5 6.9396,7e-5 13.8513,0 6.9117,7e-5 17.2298,7e-5 30.9544,0 3.7699,0.0948 6.8963,1.37656 9.3791,3.84527 2.4826,2.46882 3.7699,5.55618 3.862,9.26207 v 44.40442 c 0.028,1.16194 0.4067,2.1149 1.1368,2.85887 0.73,0.74397 1.6439,1.1285 2.7419,1.15358 1.1618,-0.0251 2.1148,-0.4096 2.8588,-1.15358 0.7439,-0.74397 1.1284,-1.69693 1.1536,-2.85887 v -44.40442 c -0.145,-5.97126 -2.1958,-10.9478 -6.1524,-14.92966 -3.9568,-3.98173 -8.9501,-6.04925 -14.9798,-6.20257 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6545"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1135.8516,472.79771 c 0.1532,5.97132 2.2207,10.94787 6.2025,14.92965 3.9818,3.9818 8.9584,6.04933 14.9297,6.20258 h 66.7404 c 1.1033,-0.0251 2.0396,-0.4096 2.8087,-1.15358 0.769,-0.74397 1.1702,-1.69693 1.2037,-2.85887 -0.034,-1.10341 -0.4347,-2.03965 -1.2037,-2.80871 -0.7691,-0.76905 -1.7054,-1.17029 -2.8087,-1.20373 h -66.7404 c -3.706,-0.0947 -6.7933,-1.37649 -9.2621,-3.84527 -2.4688,-2.46875 -3.7505,-5.55611 -3.8452,-9.26207 v -81.85394 c -0.034,-1.16184 -0.4347,-2.11479 -1.2038,-2.85887 -0.769,-0.74387 -1.7053,-1.1284 -2.8087,-1.15358 -1.1619,0.0252 -2.1149,0.40971 -2.8589,1.15358 -0.7439,0.74408 -1.1285,1.69704 -1.1535,2.85887 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6547"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1236.9268,424.38084 c -1.1619,0.0279 -2.1149,0.40688 -2.8589,1.13686 -0.744,0.73011 -1.1285,1.64405 -1.1536,2.74184 0.025,1.09791 0.4097,2.01186 1.1536,2.74184 0.744,0.7301 1.697,1.10905 2.8589,1.13686 h 57.5118 c 3.6417,0.0892 6.6901,1.34869 9.145,3.77839 2.4548,2.42981 3.7309,5.49487 3.8285,9.19519 v 7.35616 h -54.3018 c -5.9016,0.14493 -10.8169,2.1623 -14.7457,6.05211 -3.9289,3.88987 -5.9685,8.78283 -6.119,14.67887 0.1449,5.83757 2.1623,10.7138 6.0521,14.62871 3.8899,3.91493 8.7828,5.94902 14.6789,6.10227 h 41.5957 c 5.8319,-0.14489 10.6859,-2.16226 14.5618,-6.05211 3.8759,-3.88983 5.8877,-8.78279 6.0354,-14.67887 v -28.08714 c -0.1449,-5.89602 -2.1623,-10.78897 -6.0521,-14.67888 -3.8899,-3.88977 -8.7828,-5.90714 -14.6788,-6.0521 z m 3.21,48.81812 c 0.089,-3.64183 1.3486,-6.69018 3.7783,-9.14504 2.4298,-2.45481 5.4949,-3.73099 9.1952,-3.82854 h 54.3018 v 12.97358 c -0.092,3.6363 -1.3459,6.66235 -3.7616,9.07816 -2.4159,2.41584 -5.442,3.66973 -9.0782,3.76167 h -41.5957 c -3.6363,-0.0919 -6.6624,-1.34583 -9.0782,-3.76167 -2.4158,-2.41581 -3.6697,-5.44187 -3.7616,-9.07816 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6549"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 1334.9697,390.94377 c -0.034,-1.16184 -0.4347,-2.11479 -1.2038,-2.85887 -0.769,-0.74387 -1.7053,-1.1284 -2.8087,-1.15358 -1.1619,0.0252 -2.1149,0.40971 -2.8588,1.15358 -0.744,0.74408 -1.1285,1.69704 -1.1536,2.85887 v 81.85394 c 0.1532,5.97132 2.2208,10.94787 6.2026,14.92965 3.9817,3.9818 8.9583,6.04933 14.9296,6.20258 h 41.462 c 5.9712,-0.15325 10.9478,-2.22077 14.9296,-6.20258 3.9817,-3.98178 6.0493,-8.95833 6.2026,-14.92965 v -27.1509 c -0.1533,-5.97125 -2.2209,-10.94779 -6.2026,-14.92965 -3.9818,-3.98173 -8.9584,-6.04925 -14.9296,-6.20257 -18.9056,7e-5 -32.2012,7e-5 -39.8867,0 -7.6856,7e-5 -12.1538,7e-5 -13.4046,0 -1.2508,7e-5 -1.6768,7e-5 -1.278,0 0,-0.17827 0,-3.33249 0,-9.4627 0,-6.13004 0,-14.16607 0,-24.10812 z m 67.8104,81.85394 c -0.092,3.70596 -1.3794,6.79332 -3.862,9.26207 -2.4828,2.46878 -5.6092,3.75053 -9.3791,3.84527 h -41.462 c -3.706,-0.0947 -6.7933,-1.37649 -9.2621,-3.84527 -2.4687,-2.46875 -3.7505,-5.55611 -3.8452,-9.26207 0,-6.09708 0,-12.21151 0,-18.34333 0,-6.13173 0,-11.27525 0,-15.43058 0,-4.15522 0,-6.31666 0,-6.48432 -0.3988,6e-5 0.027,6e-5 1.278,0 1.2508,6e-5 5.719,6e-5 13.4046,0 7.6855,6e-5 20.9811,6e-5 39.8867,0 3.7699,0.0948 6.8963,1.37656 9.3791,3.84527 2.4826,2.46882 3.7699,5.55617 3.862,9.26206 z"
+         style="font-family:Neogrey;-inkscape-font-specification:Neogrey;fill:#00004b;stroke:#ffffff;stroke-width:14;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path6551"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neogrey;-inkscape-font-specification:Neogrey;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#007cff;fill-opacity:1;stroke:none"
+       x="1421.6377"
+       y="169.33174"
+       id="text7091"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_y_letras_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7093"
+         x="1421.6377"
+         y="169.33174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.75px;line-height:1.25;font-family:Neogrey;-inkscape-font-specification:Neogrey;text-align:end;text-anchor:end;fill:#007cff;fill-opacity:1">Smart</tspan><tspan
+         sodipodi:role="line"
+         x="1421.6377"
+         y="336.51923"
+         id="tspan7095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.75px;line-height:1.25;font-family:Neogrey;-inkscape-font-specification:Neogrey;text-align:end;text-anchor:end;fill:#007cff;fill-opacity:1">Open</tspan><tspan
+         sodipodi:role="line"
+         x="1421.6377"
+         y="503.70673"
+         id="tspan7097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.75px;line-height:1.25;font-family:Neogrey;-inkscape-font-specification:Neogrey;text-align:end;text-anchor:end;fill:#007cff;fill-opacity:1">Lab</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Reborde figuras blanco"
+     style="display:inline">
+    <g
+       id="g5804"
+       transform="translate(-171.50465,3.0847747)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         inkscape:export-ydpi="47.820133"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         transform="matrix(1.3530707,0,0,1.3367554,324.29992,-79.55445)"
+         id="path2985-5-7-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13.38401127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         cx="282.85715"
+         cy="452.36218"
+         r="148.57143" />
+      <g
+         style="display:inline"
+         id="g3472-4"
+         transform="matrix(0.94236433,0,0,0.94236433,312.89576,302.09277)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133">
+        <g
+           id="g5116-7-2"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+          <circle
+             id="path3018-4-1-7-3"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+             cx="78.605072"
+             cy="509.98718"
+             r="44.542873" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-2"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           id="path3018-5-7-7-1-2"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-5-7-7"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1200.7143,-809.75066)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <g
+         style="display:inline"
+         id="g3472-1"
+         transform="matrix(0.94236433,0,0,0.94236433,203.44343,578.32546)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133">
+        <g
+           id="g5116-7-6"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+          <circle
+             id="path3018-4-1-7-8"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+             cx="78.605072"
+             cy="509.98718"
+             r="44.542873" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-5"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           id="path3018-5-7-7-1-7"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+      <circle
+         transform="matrix(0.7063222,0.70789049,-0.7063222,0.70789049,0,0)"
+         id="path3018-5-7-7-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:20.0000248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         cx="596.88672"
+         cy="-405.27582"
+         r="113.31043"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133" />
+      <circle
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1762.7629,-809.67895)"
+         id="path3018-5-7-7-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <g
+         style="display:inline"
+         id="g3472-6"
+         transform="matrix(0.94236433,0,0,0.94236433,-77.685957,692.92532)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133">
+        <g
+           id="g5116-7-1"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+          <circle
+             id="path3018-4-1-7-89"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+             cx="78.605072"
+             cy="509.98718"
+             r="44.542873" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-27"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           id="path3018-5-7-7-1-9"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+      <g
+         style="display:inline"
+         id="g3472-5"
+         transform="matrix(0.94236433,0,0,0.94236433,-356.93186,578.39718)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133">
+        <g
+           id="g5116-7-4"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+          <circle
+             id="path3018-4-1-7-31"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+             cx="78.605072"
+             cy="509.98718"
+             r="44.542873" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-23"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           id="path3018-5-7-7-1-3"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+      <g
+         style="display:inline"
+         id="g3472-41"
+         transform="matrix(0.94236433,0,0,0.94236433,-469.37198,302.09277)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="47.820133"
+         inkscape:export-ydpi="47.820133">
+        <g
+           id="g5116-7-13"
+           transform="matrix(1.1861911,0,0,1.1529897,342.8386,-146.82289)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:5.44430399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+          <circle
+             id="path3018-4-1-7-87"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:2.35863161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+             cx="78.605072"
+             cy="509.98718"
+             r="44.542873" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           d="m 787.30302,262.63642 c -11.3358,0 -20.5214,8.79676 -20.50101,19.62353 0,10.82676 9.17548,19.6235 20.50101,19.60386 11.29504,0.0159 20.48079,-8.76733 20.46026,-19.60386 0.0159,-10.85619 -9.16522,-19.64315 -20.46026,-19.62353 z m -0.0159,-117.6723 c -11.30501,0 -20.48049,8.78686 -20.48049,19.61364 0,10.82679 9.17548,19.61369 20.48049,19.61369 56.46537,0 102.40333,43.9935 102.40333,98.0685 0,10.82676 9.17533,19.61369 20.48062,19.61369 11.30547,0 20.48064,-8.78693 20.48064,-19.61369 0,-75.70882 -64.30916,-137.29583 -143.36459,-137.29583 z m 0,58.84106 c -11.30501,0 -20.48049,8.78696 -20.48049,19.61368 0,10.82677 9.17548,19.61372 20.48049,19.61372 22.57995,0 40.96158,17.59345 40.96158,39.22737 0,10.82676 9.17516,19.61369 20.48062,19.61369 11.30515,0 20.48049,-8.78693 20.48049,-19.61369 0,-43.25797 -36.75251,-78.45477 -81.92269,-78.45477 z"
+           id="path3311-4"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           transform="matrix(1.9066706,1.9109041,-1.9066706,1.9109041,1656.0831,-887.25837)"
+           id="path3018-5-7-7-1-27"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.86210585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Aspas"
+     style="display:inline">
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.1280365;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="g3820-09"
+       transform="matrix(1.3375,0,0,1.3375,33.53853,-158.69923)"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.1280365;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1.3375,-1.3375,0,1231.001,37.27706)"
+       id="g3820-0-4"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.12803841;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="g3820-2-7"
+       transform="matrix(0.94575531,0.94575531,-0.94575531,0.94575531,671.4976,-308.51281)"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.12803841;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="g3820-1-2"
+       transform="matrix(0.94575531,-0.94575531,0.94575531,0.94575531,-312.79981,399.8105)"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.75714588;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(5.9402739,0,0,5.9402739,863.3615,466.35827)"
+       id="g3299-4"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.0186348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="matrix(5.6307645,0,0,5.6307645,184.23739,191.4378)"
+       id="g3303-3"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:25.61753845;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="g7204-6-3"
+       transform="matrix(1.104298,0,0,1.1019067,397.954,175.33696)"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:25.61753845;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="g7200-8-4"
+       transform="matrix(1.104298,0,0,1.1019067,397.954,175.33699)"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline"
+       transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)"
+       id="g3820-0-1"
+       inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5151"
+       style="stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.4636553,0,0,1.4375932,-12.419842,-218.02647)"
+         id="g3820-5"
+         style="display:inline;stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="M 134.4499,520.93361 H 614.44531"
+           id="path3016-98"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="M 133.07871,521.5994 H 616.21882"
+         id="path3016-9-9"
+         inkscape:connector-curvature="0"
+         transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,1.0165319,-1.0349606,1.0165319,687.24962,-379.31942)"
+         id="g3820-2-4"
+         style="display:inline;stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="M 138.43339,520.93361 H 610.46182"
+           id="path3016-4-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,-1.0165319,1.0349606,1.0165319,-391.0419,381.95645)"
+         id="g3820-1-4"
+         style="display:inline;stroke:#ffffff;stroke-width:13.78772449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:13.78772449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 138.43339,520.93361 H 610.46182"
+           id="path3016-7-8"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5151-4"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.4636553,0,0,1.4375932,-12.419842,-218.02647)"
+         id="g3820-5-5"
+         style="display:inline;stroke-width:6.20447587;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#007cff;stroke-width:6.20447587;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="M 134.4499,520.93361 H 614.44531"
+           id="path3016-98-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#007cff;stroke-width:6.20447587;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="M 133.07871,521.5994 H 616.21882"
+         id="path3016-9-9-1"
+         inkscape:connector-curvature="0"
+         transform="matrix(0,1.4375932,-1.4636553,0,1299.0841,-7.7283711)" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,1.0165319,-1.0349606,1.0165319,687.24962,-379.31942)"
+         id="g3820-2-4-7"
+         style="display:inline;stroke-width:6.20447583;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#007cff;stroke-width:6.20447583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="M 138.43339,520.93361 H 610.46182"
+           id="path3016-4-5-1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\SmartOpenLab\logo_fondo_blanco_redondo.png"
+         transform="matrix(1.0349606,-1.0165319,1.0349606,1.0165319,-391.0419,381.95645)"
+         id="g3820-1-4-1"
+         style="display:inline">
+        <path
+           style="fill:none;stroke:#007cff;stroke-width:6.20447583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 138.43339,520.93361 H 610.46182"
+           id="path3016-7-8-5"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Circulo y Cerebro"
+     style="display:inline"
+     transform="translate(0,2.2302535e-5)">
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#007dff;stroke-width:5.18630409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path2985-5-7"
+       transform="matrix(1.3530707,0,0,1.3367554,153.06714,-75.431726)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       cx="282.85715"
+       cy="452.36218"
+       r="148.57143" />
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;stroke:#007dff;stroke-width:5.18609762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path2985-5-7-3"
+       transform="matrix(1.1784119,0,0,1.1642027,202.47061,2.6245741)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       cx="282.85715"
+       cy="452.36218"
+       r="148.57143" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4410-0"
+       d="m 540.25821,505.20287 v 76.00018 l 41.96607,46.05366 v 68.40216"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4416-8"
+       d="m 498.99071,468.62346 -24.40637,0 -88.26306,60.78871 -27.22199,-0.0785 -25.8669,1.09278"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418-9"
+       d="m 498.99071,448.73967 -34.14929,0 -36.20491,20.65088 h -22.81852 l -0.10843,-27.54244 h -21.31468"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4420-0"
+       d="m 453.15762,433.15577 -28.90202,-4.40721 -18.578,-20.37348 -15.30375,-19.31972"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4422-0"
+       d="M 515.32293,433.02732 468.9595,418.60868 453.24637,377.49814"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4424-0"
+       d="m 565.19363,505.20287 v 67.37807 l 46.44924,45.05868 0.0959,67.39351"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4426-7"
+       d="m 613.31105,551.59406 32.78758,30.93902 17.02557,73.04388 16.64344,16.27127"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4428-2"
+       d="m 581.36781,490.76195 43.69807,-0.1642 24.50234,27.48917 v 35.98966 l 31.16321,16.92235 15.88441,25.45903"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4430-5"
+       d="m 581.36781,468.62346 53.17768,-0.30573 43.65265,22.82853 0.0958,37.99946 60.56956,1.76839"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4432-5"
+       d="m 581.36781,446.48494 26.88593,-8.09996 8.16912,-16.53987 h 37.01993 l 0.47869,21.45276 h 33.65682"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4436-1"
+       d="m 565.19363,433.02915 v -31.37728 l 98.0038,0.92246 17.79249,-14.49358"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4438-4"
+       d="m 540.25828,433.02915 6.33607,-44.02627 25.04694,-28.84712"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4440-8"
+       d="m 503.81308,405.07751 31.81054,-51.20394 -0.30862,-25.0521"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;stroke:#ffffff;stroke-width:3.23130168;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g7204-6"
+       transform="matrix(1.2454226,0,0,1.2304054,381.95461,142.96575)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-4-4"
+         d="m 112.42095,249.5222 30.63142,30.63142"
+         style="fill:none;stroke:#ffffff;stroke-width:3.23130168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-9-8-6"
+         d="m 143.05237,249.5222 -30.63142,30.63142"
+         style="fill:none;stroke:#ffffff;stroke-width:3.23130168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline;stroke:#ffffff;stroke-opacity:1;stroke-width:3.27253103;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g7200-8"
+       transform="matrix(1.229732,0,0,1.214904,383.95888,147.07115)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-4-8-9"
+         d="m 106.07696,264.8379 h 43.31939"
+         style="fill:none;stroke:#ffffff;stroke-width:3.27253103;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7111-9-8-2-8"
+         d="m 127.73666,243.17821 v 43.31938"
+         style="fill:none;stroke:#ffffff;stroke-width:3.27253103;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <ellipse
+       id="path4459-4-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       cx="405.42505"
+       cy="388.13156"
+       transform="matrix(1.7119588,0,0,1.691316,-153.03028,-187.62947)"
+       r="7.7752748" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4410-0-5"
+       d="m 514.21112,504.23559 v 102.23275 l 20.72389,42.79994 0.13785,80.79824"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker6759);marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4416-8-0"
+       d="m 404.65826,659.47784 -13.12232,13.17768"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:10.46208382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker6759);enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Iconos y circulos"
+     style="display:inline">
+    <g
+       id="g5908"
+       transform="translate(-870.45718,-198.09632)"
+       inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+       inkscape:export-xdpi="47.790474"
+       inkscape:export-ydpi="47.790474">
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         transform="matrix(2.5410283,0,0,2.5466704,1597.6462,-571.69799)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.53794753;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-4-11"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="g3299"
+         transform="matrix(8.9269666,0,0,8.7680119,1736.7561,622.35277)"
+         style="display:inline;fill:#007cff;fill-opacity:1">
+        <path
+           id="path3301"
+           d="M 2.814498,16.184 V 15.5 c 0,-0.848 0.512,-1.595 1.287,-2.047 -0.667,-0.282 -1.279,-0.667 -1.822,-1.131 -0.904,0.814 -1.46499996,1.938 -1.46499996,3.178 v 0.684 c -1.1609998,0.415 -1.99999964,1.514 -1.99999964,2.816 0,1.654 1.34599976,3 2.9999996,3 1.654,0 3,-1.346 3,-3 0,-1.302 -0.839,-2.401 -2,-2.816 z m -1,3.816 c -0.552,0 -0.99999996,-0.449 -0.99999996,-1 0,-0.551 0.44799996,-1 0.99999996,-1 0.552,0 1,0.449 1,1 0,0.551 -0.448,1 -1,1 z M 10.8145,7.815 v 0.351 c 0,0.985 -0.535,1.852 -1.3450003,2.36 0.6650003,0.274 1.2790003,0.646 1.8230003,1.1 0.936,-0.878 1.522,-2.102 1.522,-3.459 V 7.816 c 1.161,-0.415 2,-1.514 2,-2.816 0,-1.654 -1.346,-3 -3,-3 -1.654,0 -3.0000005,1.346 -3.0000005,3 0,1.302 0.8390003,2.401 2.0000005,2.815 z m 1,-3.815 c 0.552,0 1,0.449 1,1 0,0.551 -0.448,1 -1,1 -0.552,0 -1,-0.449 -1,-1 0,-0.551 0.448,-1 1,-1 z m 0.935,12.164 C 12.3395,13.251 9.8384999,11 6.8144987,11 4.878498,11 3.262498,9.619 2.894498,7.791 c 1.12,-0.436 1.92,-1.519 1.92,-2.791 0,-1.654 -1.346,-3 -3,-3 -1.65399984,0 -2.9999996,1.346 -2.9999996,3 0,1.326 0.86999984,2.44 2.06499964,2.836 C 1.289498,10.749 3.790498,13 6.8144987,13 8.7504995,13 10.3665,14.381 10.7345,16.209 9.6144998,16.645 8.8144995,17.728 8.8144995,19 c 0,1.654 1.3460005,3 3.0000005,3 1.654,0 3,-1.346 3,-3 0,-1.326 -0.87,-2.44 -2.065,-2.836 z M 1.814498,4 c 0.552,0 1,0.449 1,1 0,0.551 -0.448,1 -1,1 -0.552,0 -0.99999996,-0.449 -0.99999996,-1 0,-0.551 0.44799996,-1 0.99999996,-1 z M 11.8145,20 c -0.552,0 -1,-0.449 -1,-1 0,-0.551 0.448,-1 1,-1 0.552,0 1,0.449 1,1 0,0.551 -0.448,1 -1,1 z"
+           inkscape:connector-curvature="0"
+           style="fill:#007cff;fill-opacity:1" />
+      </g>
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.53794749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-5-7"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,1899.6668,-608.56955)"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="g3303"
+         transform="matrix(9.2509867,0,0,9.0862625,1006.3671,352.22602)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:1.05496752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+        <path
+           id="path3305"
+           d="M 12.5,5.5 C 12.224,5.5 12,5.724 12,6 c 0,0.276 0.224,0.5 0.5,0.5 1.083,0 1.964,0.881 1.964,1.964 0,0.276 0.224,0.5 0.5,0.5 0.276,0 0.5,-0.224 0.5,-0.5 C 15.464,6.83 14.134,5.5 12.5,5.5 Z M 12.5,1 C 8.364,1 5,4.364 5,8.5 5,9.986 5.44,11.422 6.274,12.665 L 6.354,12.8 C 8.179,15.406 8.5,16.23 8.5,17 v 3 c 0,0.552 0.448,1 1,1 h 2 c 0,0.26 0.11,0.52 0.29,0.71 0.19,0.18 0.45,0.29 0.71,0.29 0.26,0 0.52,-0.11 0.71,-0.29 0.18,-0.19 0.29,-0.45 0.29,-0.71 h 2 c 0.552,0 1,-0.448 1,-1 v -3 c 0,-0.782 0.319,-1.61 2.132,-4.199 C 19.527,11.526 20,10.039 20,8.5 20,4.364 16.636,1 12.5,1 Z m 2,18 h -4 v -1 h 4 z m 2.495,-7.347 C 15.529,13.746 14.852,14.942 14.61,16 H 13.5 v -2 c 0,-0.552 -0.448,-1 -1,-1 -0.552,0 -1,0.448 -1,1 v 2 H 10.387 C 10.147,14.97 9.489,13.8 8.081,11.78 L 8.004,11.651 C 7.347,10.717 7,9.627 7,8.5 7,5.467 9.467,3 12.5,3 15.533,3 18,5.467 18,8.5 c 0,1.126 -0.347,2.216 -1.005,3.153 z"
+           inkscape:connector-curvature="0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:1.05496752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      </g>
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         transform="matrix(1.7967784,1.8007679,-1.7967784,1.8007679,2463.0296,-56.614125)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.53794749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-4-5-5"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="path3307"
+         d="m 1687.3028,927.69535 c 16.6079,0 32.2044,6.22481 43.9093,17.53894 11.6226,11.22291 18.022,26.14623 18.022,41.97182 0,15.82559 -6.3994,30.71849 -18.0117,41.96169 l -43.9196,42.4178 -43.9094,-42.4382 c -11.6123,-11.2228 -18.0117,-26.1157 -18.0117,-41.96158 0,-15.84586 6.3994,-30.73874 18.0117,-41.98194 11.7154,-11.28372 27.3221,-17.50853 43.9094,-17.50853 m 0,-20.27623 c -21.1289,0 -42.2787,7.78606 -58.3911,23.36835 -32.2456,31.1646 -32.2456,81.68283 0,112.84733 l 58.3911,56.3983 58.391,-56.4184 c 32.2456,-31.1444 32.2456,-81.67276 0,-112.82723 -16.1126,-15.58229 -37.2519,-23.36835 -58.391,-23.36835 z m 0,55.74953 c 6.8949,0 13.3772,2.63591 18.249,7.41095 10.0742,9.8948 10.0742,25.97387 0,35.8585 -4.8822,4.7852 -11.3541,7.411 -18.249,7.411 -6.8952,0 -13.367,-2.6359 -18.2493,-7.411 -10.0741,-9.89481 -10.0741,-25.97388 0,-35.8585 4.8823,-4.77504 11.3646,-7.41095 18.2493,-7.41095 m 0,-10.13815 c -9.2486,0 -18.497,3.46726 -25.5467,10.38141 -14.1101,13.85883 -14.1101,36.33505 0,50.19389 7.0602,6.9345 16.288,10.3814 25.5467,10.3814 9.2587,0 18.4967,-3.4673 25.5466,-10.3814 14.0998,-13.85884 14.0998,-36.33506 0,-50.19389 -7.0499,-6.9243 -16.2983,-10.38141 -25.5466,-10.38141 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-48-5"
+         transform="rotate(90)"
+         cx="336.82059"
+         cy="-1406.8022"
+         rx="113.43601"
+         ry="113.18471" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="g5116-7"
+         transform="matrix(1.1178242,0,0,1.0865364,1224.1606,89.262145)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:8.1664558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+        <circle
+           id="path3018-4-1-7"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.5379474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="matrix(1.6073891,-1.6573471,1.6073891,1.6573471,-532.38529,-381.63566)"
+           cx="78.605072"
+           cy="509.98718"
+           r="44.542873" />
+      </g>
+      <g
+         id="g5309"
+         style="stroke-width:15.87401581;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.91570973,0,0,0.91570973,150.15465,32.170964)"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:nodetypes="cccccssssssssssssss"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+           id="path3311"
+           d="m 1625.6271,493.891 c -9.6346,0 -17.4417,7.4766 -17.4243,16.67854 0,9.20195 7.7985,16.67852 17.4243,16.66184 9.6,0.0136 17.4072,-7.45159 17.3897,-16.66184 0.013,-9.22695 -7.7897,-16.69521 -17.3897,-16.67854 z m 25.986,-128.01276 c -9.6083,0 -17.4069,7.46817 -17.4069,16.67015 0,9.20197 7.7986,16.67018 17.4069,16.67018 47.9914,0 87.0354,37.39123 87.0354,83.35097 0,9.20195 7.7983,16.6702 17.4069,16.6702 9.6088,0 17.4071,-7.46825 17.4071,-16.6702 0,-64.34689 -54.6581,-116.6913 -121.8494,-116.6913 z m -14,64.01055 c -9.6083,0 -17.4069,7.46827 -17.4069,16.67018 0,9.20195 7.7986,16.67021 17.4069,16.67021 19.1914,0 34.8144,14.95312 34.8144,33.34036 0,9.20195 7.7982,16.6702 17.407,16.6702 9.6086,0 17.4069,-7.46825 17.4069,-16.6702 0,-36.76608 -31.237,-66.68075 -69.6283,-66.68075 z"
+           inkscape:connector-curvature="0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#007cff;stroke-width:16.69958115;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      </g>
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         transform="rotate(90)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-4-8-9"
+         cx="1117.9038"
+         cy="-1406.8021"
+         rx="113.43601"
+         ry="113.1847" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="path3313"
+         d="m 1482.8713,1069.8531 c -0.4915,-1.6221 -1.8088,-2.8868 -3.4797,-3.3213 -1.6909,-0.4537 -3.4603,0.029 -4.6889,1.2166 l -25.7151,24.6874 -18.8144,-3.6977 -3.7451,-18.4118 26.0001,-24.9577 c 1.2385,-1.1876 1.7498,-2.9255 1.3466,-4.5766 -0.403,-1.651 -1.6514,-2.9737 -3.3029,-3.4854 -5.2197,-1.6028 -10.0066,-2.3945 -14.6366,-2.3945 -27.1011,0 -49.1495,21.656 -49.1495,48.2744 0,3.1186 0.3735,6.2757 1.16,9.7513 -5.5244,4.4703 -10.7735,8.3226 -16.7206,12.6866 -8.5029,6.2369 -18.1362,13.2946 -31.279,24.195 -7.7163,6.6232 -12.1397,16.0174 -12.1397,25.7785 0,18.6339 15.433,33.792 34.4047,33.792 10.0361,0 19.5909,-4.4026 26.167,-12.0686 11.2946,-13.0053 18.5884,-22.5536 25.0074,-30.9828 4.3447,-5.706 8.1784,-10.7263 12.6117,-16.0267 3.5388,0.7821 6.7629,1.1489 9.938,1.1489 27.101,0 49.1494,-21.656 49.1494,-48.2742 0,-4.2193 -0.6685,-8.448 -2.1134,-13.3334 z m -120.7601,95.3996 c -5.436,0 -9.83,-4.3159 -9.83,-9.6548 0,-5.3393 4.394,-9.6549 9.83,-9.6549 5.4359,0 9.8298,4.3156 9.8298,9.6549 0,5.3389 -4.3939,9.6548 -9.8298,9.6548 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#007cff;stroke-width:14.3248024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.53794749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-1-5"
+         transform="matrix(1.7967784,-1.8007679,1.7967784,1.8007679,69.986398,226.5566)"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         id="path3315"
+         d="m 1201.0848,955.76377 h -22.9684 c 0,-12.40762 -10.3358,-22.55937 -22.9684,-22.55937 h -91.8735 c -12.6326,0 -22.9685,10.15175 -22.9685,22.55937 v 52.63873 c 0,12.4076 10.3359,22.5594 22.9685,22.5594 v 22.5593 l 22.9683,-22.5593 c 0,12.4076 10.3358,22.5593 22.9684,22.5593 h 61.2491 l 22.9684,22.5595 v -22.5595 h 7.6561 c 12.6327,0 22.9684,-10.1517 22.9684,-22.5593 v -52.63868 c 0,-12.40771 -10.3357,-22.55945 -22.9684,-22.55945 z m -137.8103,60.15853 c -4.1496,0 -7.6562,-3.4441 -7.6562,-7.5198 v -52.63873 c 0,-4.07569 3.5066,-7.51977 7.6562,-7.51977 h 91.8735 c 4.1496,0 7.6561,3.44408 7.6561,7.51977 v 7.51986 h -49.7649 c -10.5578,0 -19.1403,8.42967 -19.1403,18.79951 v 33.83916 z m 145.4665,15.0396 c 0,4.0757 -3.5066,7.5198 -7.6562,7.5198 h -91.8736 c -4.1496,0 -7.6561,-3.4441 -7.6561,-7.5198 v -48.87876 c 0,-6.21888 5.1526,-11.27976 11.4841,-11.27976 h 88.0456 c 4.1496,0 7.6562,3.44411 7.6562,7.51984 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29264784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#007dff;stroke-width:3.5379476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3018-6"
+         transform="matrix(2.5410283,0,0,2.5466703,815.37842,-571.69797)"
+         cx="78.605072"
+         cy="509.98718"
+         r="44.542873" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#007cff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.29299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0"
+         d="m 1114.9983,668.96081 h -74.0464 v -32.20435 h -51.58052 v 32.20435 h -74.04207 c -3.86805,0 0.45489,3.07846 0.45489,6.87335 0,3.79489 -4.32294,6.87335 -0.45489,6.87335 h 74.04207 l 3.66705,23.19982 13.59577,9.00452 3.667,7.73674 c 1.599,3.37333 -1.1783,9.53995 2.2389,10.6298 0.2079,3.4779 1.0168,5.79653 2.5375,7.41604 2.6746,2.84833 6.8564,2.83962 12.2232,2.80927 1.5694,0 3.2581,-0.0106 5.1015,0.0434 3.4746,0.10439 5.2827,0.69907 6.0297,1.10287 -1.6577,1.33298 -8.6026,3.56911 -23.2129,2.13193 -7.8335,-0.78154 -18.67302,-1.28525 -22.20949,3.3954 -0.95492,1.26349 -1.80374,3.44754 -0.43322,6.68669 1.11842,2.64855 3.38178,4.03798 6.12694,4.79782 l -17.70033,9.1963 0.25635,0.47326 -0.28732,-0.0564 v 45.89456 l 38.66337,8.96183 29.7157,-16.06092 -0.075,-44.80909 0.04,-0.98996 -0.04,-9.3e-4 v -0.0827 l -0.1108,0.0566 -31.5636,-6.63016 -4.319,-0.90744 -3.5807,-0.75119 -4.3324,2.25348 c -4.0891,-0.18259 -7.74501,-0.70775 -8.70872,-3.00033 -0.69848,-1.64126 -0.25188,-2.23614 -0.10203,-2.43148 0.74273,-0.97694 3.97425,-3.08716 18.56255,-1.62825 13.7837,1.35903 24.4816,-0.36041 27.2889,-4.38103 0.8442,-1.20707 0.9636,-2.60517 0.3271,-3.83832 -1.4721,-2.85264 -6.357,-3.59079 -10.1985,-3.70799 -1.9054,-0.0609 -3.6603,-0.0564 -5.2607,-0.0434 -4.403,0.0277 -7.5991,0.0341 -8.9474,-1.41108 -0.7295,-0.77722 -1.1538,-2.2057 -1.3262,-4.24211 3.8194,-0.82932 0.05,-7.4086 2.1001,-10.86858 l 4.5839,-7.7368 13.5957,-7.20361 3.6671,-25.00073 h 74.0464 c 3.8637,0 -0.5688,-3.64284 -0.5688,-7.43775 0,-3.79487 4.4325,-6.31327 0.5688,-6.31327 z m -97.3125,154.4394 -34.66252,-7.83724 V 773.7759 l 16.85077,26.76766 z"
+         id="path3317"
+         sodipodi:nodetypes="cccccssscccscscccccccccccccccccccccccccccccccscccssccccccc" />
+      <g
+         transform="matrix(0.64778082,-0.03913783,0.03913783,0.64778082,675.38299,473.20651)"
+         style="display:inline;fill:none;stroke:#007cff;stroke-width:24.46059775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g5360-7"
+         inkscape:export-filename="D:\Pictures\logos\Logo-SmartOpenLab\to use (final_exports)\logo_fondo_transparente.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#007cff;stroke-width:24.46059775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1119.6542,-116.86774 c -7.5011,-12.72745 -0.4603,-28.73671 11.9433,-35.18409 17.3854,-9.03689 38.3863,0.5665 46.4769,17.51444 10.6536,22.31654 -1.7106,48.650219 -23.5061,58.432519 -27.4926,12.339262 -59.4478,-2.95173 -70.9708,-29.857229 -14.086,-32.88999 4.2761,-70.71999 36.5242,-84.0317 6.4583,-2.66595 13.3129,-4.35173 20.2674,-5.01476"
+           id="path5332-8"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5336-0"
+           d="M 1156.0912,-29.978261 1135.7532,-253.6126"
+           style="fill:none;stroke:#007cff;stroke-width:24.46059775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cscc"
+           inkscape:connector-curvature="0"
+           id="path5338-5"
+           d="m 1156.0912,-33.060105 c 1.4813,14.997239 -9.8518,28.734127 -24.8369,30.1987221 -15.0718,1.4730745 -28.7552,-16.3194011 -30.2178,-31.3817801 -0.2068,-2.12871 0,0 0,0"
+           style="fill:none;fill-rule:evenodd;stroke:#007cff;stroke-width:24.46059775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 1135.7533,-250.53075 c -1.1247,-16.06368 13.3453,-28.4243 28.6454,-28.78424 21.0123,-0.49433 36.8438,18.53558 36.7049,38.73274 -0.1805,26.23319 -24.079,45.7471 -49.4562,45.02855 -4.8425,-0.13711 -9.6611,-0.95756 -14.2823,-2.40928"
+           sodipodi:t0="0.53528833"
+           sodipodi:argument="-21.299404"
+           sodipodi:radius="53.715527"
+           sodipodi:revolution="1.7073967"
+           sodipodi:expansion="1.29"
+           sodipodi:cy="-246.9207"
+           sodipodi:cx="1159.4672"
+           id="path5332-2-0"
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#007cff;stroke-width:24.46059775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:type="spiral" />
+      </g>
+    </g>
+  </g>
+</svg>
